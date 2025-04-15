@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Lógica en TypeScript</h1>
+<h1 align="center"><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> Lógica en TypeScript</h1>
 
 <p align="center">
   Prácticas paso a paso para dominar la lógica de programación con <strong>TypeScript</strong> 💻
