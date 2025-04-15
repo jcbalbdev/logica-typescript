@@ -1,6 +1,6 @@
 # 🧠 Ejercicios de Lógica en TypeScript
 
-Este repositorio contiene ejercicios prácticos para mejorar la lógica de programación usando **TypeScript**, organizados por niveles de dificultad.
+Este repositorio contiene una serie de ejercicios resueltos en **TypeScript**, organizados por niveles de dificultad. Cada archivo `.ts` representa un ejercicio independiente con fines prácticos para mejorar tu lógica de programación.
 
 ---
 
@@ -30,11 +30,16 @@ Este repositorio contiene ejercicios prácticos para mejorar la lógica de progr
 - [`lv5-destructuracion-de-variables.ts`](./lv5-destructuracion-de-variables.ts)
 - [`lv5-tipos-personalizados-con-type-e-interface.ts`](./lv5-tipos-personalizados-con-type-e-interface.ts)
 
+### 🟦 Nivel 6
+- [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
+- [`lv6-tuplas-y-tipos-de-union.ts`](./lv6-tuplas-y-tipos-de-union.ts)
+- [`lv6-uso-de-enums.ts`](./lv6-uso-de-enums.ts)
+- [`lv6-validacion-y-control-de-entrada-de-datos.ts`](./lv6-validacion-y-control-de-entrada-de-datos.ts)
+
+
+### 🟨 Nivel 7
+- [`lv7-prueba-de-tipos-con-errores-controlados.ts`](./lv7-prueba-de-tipos-con-errores-controlados.ts)
+- [`lv7-casting-entre-tipos-complejos.ts`](./lv7-casting-entre-tipos-complejos.ts)
+
 ---
 
-## ⚙️ Cómo ejecutar
-
-1. Asegúrate de tener TypeScript instalado:
-
-```bash
-npm install -g typescript
