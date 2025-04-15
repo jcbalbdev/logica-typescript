@@ -14,3 +14,7 @@ function queEs(valor: number): string{
   }
 }
 
+console.log(queEs(veintiuno));
+console.log(queEs(numeroCero));
+console.log(queEs(negativo));
+

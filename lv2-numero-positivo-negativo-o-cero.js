@@ -14,3 +14,6 @@ function queEs(valor) {
         return `el numero ${valor} es neutro`;
     }
 }
+console.log(queEs(veintiuno));
+console.log(queEs(numeroCero));
+console.log(queEs(negativo));
