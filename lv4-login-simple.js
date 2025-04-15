@@ -10,7 +10,7 @@ function verificandoDatos(user, pass) {
         return `se permitio la entrada de  ${user}`;
     }
     else {
-        return `no se permitio la entrada de  ${user}, usuario no valido`;
+        return `no se permitio la entrada de  ${user}, datos incorrectos`;
     }
 }
 console.log(verificandoDatos(usuario, pass));
