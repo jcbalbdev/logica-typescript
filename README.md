@@ -1,6 +1,14 @@
-# 🧠 Ejercicios de Lógica en TypeScript
+<h1 align="center">🧠 Lógica en TypeScript</h1>
 
-Este repositorio contiene una serie de ejercicios resueltos en **TypeScript**, organizados por niveles de dificultad. Cada archivo `.ts` representa un ejercicio independiente con fines prácticos para mejorar tu lógica de programación.
+<p align="center">
+  Prácticas paso a paso para dominar la lógica de programación con <strong>TypeScript</strong> 💻
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/estado-en%20progreso-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/jcbalbdev/logica-typescript?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/jcbalbdev/logica-typescript?style=flat-square" />
+</p>
 
 ---
 
