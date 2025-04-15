@@ -1,6 +1,6 @@
 /* Dado un número del 1 al 7, muestra el día de la semana correspondiente. */
 
-let diaSemana: number = 4;
+let diaSemana: number = 7;
 
 function dia(codigo: number): string{
   if (codigo === 1) {
@@ -21,3 +21,5 @@ function dia(codigo: number): string{
     return `el codigo ${codigo} no pertenece a ningun dia`;
   }
 }
+
+console.log(dia(diaSemana));

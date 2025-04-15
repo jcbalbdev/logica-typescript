@@ -1,6 +1,6 @@
 "use strict";
 /* Dado un número del 1 al 7, muestra el día de la semana correspondiente. */
-let diaSemana = 4;
+let diaSemana = 7;
 function dia(codigo) {
     if (codigo === 1) {
         return `el codigo ${codigo} le pertenece al Lunes`;
@@ -27,3 +27,4 @@ function dia(codigo) {
         return `el codigo ${codigo} no pertenece a ningun dia`;
     }
 }
+console.log(dia(diaSemana));
