@@ -16,6 +16,7 @@
 
 ### 🔵 Nivel 1
 - [`lv1-suma-de-numeros.ts`](./lv1-suma-de-numeros.ts)
+- [`lv1-es-mayor-de-edad.ts`](./lv1-es-mayor-de-edad.ts)
 
 ### 🔴 Nivel 2
 - [`lv2-concatenacion-de-texto.ts`](./lv2-concatenacion-de-texto.ts)
