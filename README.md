@@ -39,6 +39,7 @@
 - [`lv4-login-simple.ts`](./lv4-login-simple.ts)
 - [`lv4-validacion-de-rango-de-edad.ts`](./lv4-validacion-de-rango-de-edad.ts)
 - [`lv4-uso-de-operadores-logicos.ts`](./lv4-uso-de-operadores-logicos.ts)
+- [`lv4-switch-con-multiples-casos.ts`](./lv4-switch-con-multiples-casos.ts)
 
 ### 🟢 Nivel 5
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
