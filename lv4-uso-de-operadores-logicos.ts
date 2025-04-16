@@ -7,7 +7,7 @@ interface Trabajador{
 
 let empleado: Trabajador ={
   tarjeta:true,
-  bloqueado:false
+  bloqueado:true
 }
 
 function acceso(tarjeta: boolean,estaBloqueado: boolean): string{
@@ -18,3 +18,4 @@ function acceso(tarjeta: boolean,estaBloqueado: boolean): string{
   }
 }
 
+console.log(acceso(empleado.tarjeta,empleado.bloqueado));

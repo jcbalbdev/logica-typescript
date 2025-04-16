@@ -2,7 +2,7 @@
 /* Simula un sistema de seguridad: acceso permitido solo si tiene tarjeta y no está bloqueado. */
 let empleado = {
     tarjeta: true,
-    bloqueado: false
+    bloqueado: true
 };
 function acceso(tarjeta, estaBloqueado) {
     if ((tarjeta === true) && (!estaBloqueado === true)) {
@@ -12,3 +12,4 @@ function acceso(tarjeta, estaBloqueado) {
         return "el empleado no tiene acceso";
     }
 }
+console.log(acceso(empleado.tarjeta, empleado.bloqueado));
