@@ -1,7 +1,11 @@
-<h1 align="center"><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> Lógica en TypeScript</h1>
+<h1 align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="60" />
+  <br/>
+  <strong>Lógica con TypeScript</strong>
+</h1>
 
 <p align="center">
-  Prácticas paso a paso para dominar la lógica de programación con <strong>TypeScript</strong> 💻
+  Aprende lógica de programación desde cero con ejercicios prácticos y progresivos usando <strong>TypeScript</strong> 💻🧠
 </p>
 
 <p align="center">
