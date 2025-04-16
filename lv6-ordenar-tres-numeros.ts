@@ -6,7 +6,6 @@ let t: number = 3;
 
 function menoramayor(a: number,b: number,c: number): string{
 
-
   if((a>b) && (a>c)){
     if(b>c){
       return `el orden de ${a}, ${b} y ${c} :  ${c} ${b} ${a}`;
