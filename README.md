@@ -30,6 +30,7 @@
 - [`lv3-conversion-de-tipos.ts`](./lv3-conversion-de-tipos.ts)
 - [`lv3-usando-operadores-logicos-con-variables.ts`](./lv3-usando-operadores-logicos-con-variables.ts)
 - [`lv3-sistema-de-calificaciones.ts`](./lv3-sistema-de-calificaciones.ts)
+- [`lv3-switch-estacion-del-año.ts`](./lv3-switch-estacion-del-año.ts)
 
 ### 🟡 Nivel 4
 - [`lv4-calculadora-basica.ts`](./lv4-calculadora-basica.ts)
@@ -45,12 +46,14 @@
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
 - [`lv5-destructuracion-de-variables.ts`](./lv5-destructuracion-de-variables.ts)
 - [`lv5-tipos-personalizados-con-type-e-interface.ts`](./lv5-tipos-personalizados-con-type-e-interface.ts)
+- [`lv5-menor-de-tres-numeros.ts`](./lv5-menor-de-tres-numeros.ts)
 
 ### 🟣 Nivel 6
 - [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
 - [`lv6-tuplas-y-tipos-de-union.ts`](./lv6-tuplas-y-tipos-de-union.ts)
 - [`lv6-uso-de-enums.ts`](./lv6-uso-de-enums.ts)
 - [`lv6-validacion-y-control-de-entrada-de-datos.ts`](./lv6-validacion-y-control-de-entrada-de-datos.ts)
+- [`lv6-ordenar-tres-numeros.ts`](./lv6-ordenar-tres-numeros.ts)
 
 
 ### 🟤 Nivel 7
