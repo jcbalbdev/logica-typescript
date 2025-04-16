@@ -3,22 +3,14 @@
 let prim = 2;
 let seg = 1;
 let terc = 3;
-function elMenorEs(a, b, c) {
-    if (a <= b) {
-        if (a < c) {
-            return `el numero ${a} es el menor`;
-        }
-        else {
-            return `el numero ${c} es el menor`;
-        }
+function elMenorEntre(a, b, c) {
+    let menor = a;
+    if (b < menor) {
+        menor = b;
     }
-    else {
-        if (b < c) {
-            return `el numero ${b} es el menor`;
-        }
-        else {
-            return `el numero ${c} es el menor`;
-        }
+    if (c < menor) {
+        menor = c;
     }
+    return `el menor es ${menor}`;
 }
-console.log(elMenorEs(prim, seg, terc));
+console.log(elMenorEntre(prim, seg, terc));

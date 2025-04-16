@@ -4,21 +4,15 @@ let prim: number = 2;
 let seg: number = 1;
 let terc: number = 3;
 
-function elMenorEs(a: number,b: number,c: number): string{
-  if (a<=b) {
-    if(a<c){
-      return `el numero ${a} es el menor`;
-    }else{
-      return `el numero ${c} es el menor`;
-    }
-  }else{
-    if(b<c){
-      return `el numero ${b} es el menor`;
-    }else{
-      return `el numero ${c} es el menor`;
-    }
+function elMenorEntre(a: number,b: number,c :number): string{
+  let menor = a;
+  if(b<menor){
+    menor=b;
   }
-
+  if(c<menor){
+    menor=c;
+  }
+  return `el menor es ${menor}`;
 }
 
-console.log(elMenorEs(prim,seg,terc));
+console.log(elMenorEntre(prim,seg,terc));
