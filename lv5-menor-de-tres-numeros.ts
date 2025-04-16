@@ -15,7 +15,7 @@ function elMenorEntre(a: number,b: number,c :number): string{
     menor=c;
   }
 
-  return `el menor entre ${a},${b} y ${c} es : ${menor}`;
+  return `el menor entre ${a}, ${b} y ${c} es : ${menor}`;
 }
 
 console.log(elMenorEntre(prim,seg,terc));
