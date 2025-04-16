@@ -1,6 +1,6 @@
 "use strict";
 /* Escribe un programa que evalúe una nota (A, B, C, etc.) y dé un mensaje. Agrupa varios casos que tengan el mismo mensaje. */
-let nota = "B";
+let nota = "F";
 switch (nota) {
     case "A":
     case "B":
