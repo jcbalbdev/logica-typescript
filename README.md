@@ -29,6 +29,7 @@
 - [`lv3-comparacion-estricta-vs-noestricta.ts`](./lv3-comparacion-estricta-vs-noestricta.ts)
 - [`lv3-conversion-de-tipos.ts`](./lv3-conversion-de-tipos.ts)
 - [`lv3-usando-operadores-logicos-con-variables.ts`](./lv3-usando-operadores-logicos-con-variables.ts)
+- [`lv3-sistema-de-calificaciones.ts`](./lv3-sistema-de-calificaciones.ts)
 
 ### 🟡 Nivel 4
 - [`lv4-calculadora-basica.ts`](./lv4-calculadora-basica.ts)
