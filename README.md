@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="60" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ255YmgyNjg5NWp2MmlhN2hkZHhicnYxaWtxYmxqZnV1dGx1bHJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Nyan Cat" width="60" />
   <br/>
   <strong>Lógica con TypeScript</strong>
 </h1>
