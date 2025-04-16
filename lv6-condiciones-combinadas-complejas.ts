@@ -35,4 +35,4 @@ function evaluandoPermiso({rol,logueado}: User): string{
   }
 }
 
-console.log(evaluandoPermiso(pedrito));
+console.log(evaluandoPermiso(pascal));

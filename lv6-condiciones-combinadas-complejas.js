@@ -27,4 +27,4 @@ function evaluandoPermiso({ rol, logueado }) {
         return `el usuario es ${rol} y su acceso esta denegado`;
     }
 }
-console.log(evaluandoPermiso(pedrito));
+console.log(evaluandoPermiso(pascal));
