@@ -12,6 +12,16 @@
 
 ---
 
+## 🚀 ¿Qué es esto?
+
+Un recorrido paso a paso para que desarrolles y domines tu lógica de programación usando TypeScript. Aquí no solo aprendes, ¡también te diviertes!
+
+- 🎓 Perfecto para quienes están comenzando su aventura como desarrolladores
+- 🧙‍♂️ Avanza de nivel como si fueras un mago en entrenamiento: cada reto es una misión que te hará más fuerte
+
+
+---
+
 ## 🧐 Niveles de ejercicios
 
 ### 🦄 Nivel 1
