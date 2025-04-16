@@ -14,18 +14,18 @@
 
 ## 🧐 Niveles de ejercicios
 
-### 🔵 Nivel 1
+### 🦄 Nivel 1
 - [`lv1-suma-de-numeros.ts`](./lv1-suma-de-numeros.ts)
 - [`lv1-es-mayor-de-edad.ts`](./lv1-es-mayor-de-edad.ts)
 
-### 🔴 Nivel 2
+### 🦄 Nivel 2
 - [`lv2-concatenacion-de-texto.ts`](./lv2-concatenacion-de-texto.ts)
 - [`lv2-operaciones-matematicas-con-variables.ts`](./lv2-operaciones-matematicas-con-variables.ts)
 - [`lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts`](./lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts)
 - [`lv2-usando-const.ts`](./lv2-usando-const.ts)
 - [`lv2-numero-positivo-negativo-o-cero.ts`](./lv2-numero-positivo-negativo-o-cero.ts)
 
-### 🟠 Nivel 3
+### 🦄 Nivel 3
 - [`lv3-comparacion-estricta-vs-noestricta.ts`](./lv3-comparacion-estricta-vs-noestricta.ts)
 - [`lv3-conversion-de-tipos.ts`](./lv3-conversion-de-tipos.ts)
 - [`lv3-usando-operadores-logicos-con-variables.ts`](./lv3-usando-operadores-logicos-con-variables.ts)
@@ -33,7 +33,7 @@
 - [`lv3-switch-estacion-del-año.ts`](./lv3-switch-estacion-del-año.ts)
 - [`lv3-uso-de-ternario-simple.ts`](./lv3-uso-de-ternario-simple.ts)
 
-### 🟡 Nivel 4
+### 🦄 Nivel 4
 - [`lv4-calculadora-basica.ts`](./lv4-calculadora-basica.ts)
 - [`lv4-conversion-implicita-vs-explicita.ts`](./lv4-conversion-implicita-vs-explicita.ts)
 - [`lv4-valores-falsy-y-truthy.ts`](./lv4-valores-falsy-y-truthy.ts)
@@ -43,14 +43,14 @@
 - [`lv4-uso-de-operadores-logicos.ts`](./lv4-uso-de-operadores-logicos.ts)
 - [`lv4-switch-con-multiples-casos.ts`](./lv4-switch-con-multiples-casos.ts)
 
-### 🟢 Nivel 5
+### 🦄 Nivel 5
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
 - [`lv5-destructuracion-de-variables.ts`](./lv5-destructuracion-de-variables.ts)
 - [`lv5-tipos-personalizados-con-type-e-interface.ts`](./lv5-tipos-personalizados-con-type-e-interface.ts)
 - [`lv5-menor-de-tres-numeros.ts`](./lv5-menor-de-tres-numeros.ts)
 - [`lv5-ternario-anidado.ts`](./lv5-ternario-anidado.ts)
 
-### 🟣 Nivel 6
+### 🦄 Nivel 6
 - [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
 - [`lv6-tuplas-y-tipos-de-union.ts`](./lv6-tuplas-y-tipos-de-union.ts)
 - [`lv6-uso-de-enums.ts`](./lv6-uso-de-enums.ts)
@@ -59,7 +59,7 @@
 - [`lv6-condiciones-combinadas-complejas.ts`](./lv6-condiciones-combinadas-complejas.ts)
 
 
-### 🟤 Nivel 7
+### 🦄 Nivel 7
 - [`lv7-prueba-de-tipos-con-errores-controlados.ts`](./lv7-prueba-de-tipos-con-errores-controlados.ts)
 - [`lv7-casting-entre-tipos-complejos.ts`](./lv7-casting-entre-tipos-complejos.ts)
 
