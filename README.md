@@ -31,6 +31,7 @@
 - [`lv3-usando-operadores-logicos-con-variables.ts`](./lv3-usando-operadores-logicos-con-variables.ts)
 - [`lv3-sistema-de-calificaciones.ts`](./lv3-sistema-de-calificaciones.ts)
 - [`lv3-switch-estacion-del-año.ts`](./lv3-switch-estacion-del-año.ts)
+- [`lv3-uso-de-ternario-simple.ts`](./lv3-uso-de-ternario-simple.ts)
 
 ### 🟡 Nivel 4
 - [`lv4-calculadora-basica.ts`](./lv4-calculadora-basica.ts)
