@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ255YmgyNjg5NWp2MmlhN2hkZHhicnYxaWtxYmxqZnV1dGx1bHJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Nyan Cat" width="60" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ255YmgyNjg5NWp2MmlhN2hkZHhicnYxaWtxYmxqZnV1dGx1bHJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Logo de Github" width="60" />
   <br/>
   <strong>Lógica con TypeScript</strong>
 </h1>
@@ -16,7 +16,11 @@
 
 ---
 
-## 🚀 ¿Qué es esto?
+<h2>
+  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="30" style="vertical-align: middle; margin-right: 8px;" />
+  ¿Qué es esto?
+</h2>
+
 
 Un recorrido paso a paso para que desarrolles y domines tu lógica de programación usando TypeScript. Aquí no solo aprendes, ¡también te diviertes!
 
