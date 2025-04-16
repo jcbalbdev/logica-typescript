@@ -48,6 +48,7 @@
 - [`lv5-destructuracion-de-variables.ts`](./lv5-destructuracion-de-variables.ts)
 - [`lv5-tipos-personalizados-con-type-e-interface.ts`](./lv5-tipos-personalizados-con-type-e-interface.ts)
 - [`lv5-menor-de-tres-numeros.ts`](./lv5-menor-de-tres-numeros.ts)
+- [`lv5-ternario-anidado.ts`](./lv5-ternario-anidado.ts)
 
 ### 🟣 Nivel 6
 - [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
@@ -55,6 +56,7 @@
 - [`lv6-uso-de-enums.ts`](./lv6-uso-de-enums.ts)
 - [`lv6-validacion-y-control-de-entrada-de-datos.ts`](./lv6-validacion-y-control-de-entrada-de-datos.ts)
 - [`lv6-ordenar-tres-numeros.ts`](./lv6-ordenar-tres-numeros.ts)
+- [`lv6-condiciones-combinadas-complejas.ts`](./lv6-condiciones-combinadas-complejas.ts)
 
 
 ### 🟤 Nivel 7
