@@ -35,6 +35,8 @@
 - [`lv4-calculadora-basica.ts`](./lv4-calculadora-basica.ts)
 - [`lv4-conversion-implicita-vs-explicita.ts`](./lv4-conversion-implicita-vs-explicita.ts)
 - [`lv4-valores-falsy-y-truthy.ts`](./lv4-valores-falsy-y-truthy.ts)
+- [`lv4-verificacion-multiple-con-else-if.ts`](./lv4-verificacion-multiple-con-else-if.ts)
+- [`lv4-login-simple.ts`](./lv4-login-simple.ts)
 
 ### 🟢 Nivel 5
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
