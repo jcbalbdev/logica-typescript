@@ -23,6 +23,7 @@
 - [`lv2-operaciones-matematicas-con-variables.ts`](./lv2-operaciones-matematicas-con-variables.ts)
 - [`lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts`](./lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts)
 - [`lv2-usando-const.ts`](./lv2-usando-const.ts)
+- [`lv2-numero-positivo-negativo-o-cero.ts`](./lv2-numero-positivo-negativo-o-cero.ts)
 
 ### 🟠 Nivel 3
 - [`lv3-comparacion-estricta-vs-noestricta.ts`](./lv3-comparacion-estricta-vs-noestricta.ts)
