@@ -1,7 +1,7 @@
 /* Dado tres números, encuentra el menor usando if. */
 
-let prim: number = 23;
-let seg: number = 12;
+let prim: number = 230;
+let seg: number = 1;
 let terc: number = 32;
 
 function elMenorEs(a: number,b: number,c: number): string{
@@ -20,3 +20,5 @@ function elMenorEs(a: number,b: number,c: number): string{
   }
 
 }
+
+console.log(elMenorEs(prim,seg,terc));
