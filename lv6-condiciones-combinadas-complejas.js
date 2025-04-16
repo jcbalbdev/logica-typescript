@@ -6,6 +6,7 @@ var Rol;
     Rol["Editor"] = "editor";
     Rol["Visitante"] = "visitante";
 })(Rol || (Rol = {}));
+const rolesPermitidos = [Rol.Administrador, Rol.Editor, Rol.Visitante];
 let pedrito = {
     rol: Rol.Administrador,
     logueado: true
@@ -14,18 +15,16 @@ let pascal = {
     rol: Rol.Editor,
     logueado: true
 };
-let barry = {
+let aristoteles = {
     rol: Rol.Visitante,
-    logueado: true
+    logueado: false
 };
-const rolesPermitidos = [Rol.Admin, Rol.Editor, Rol.Visitante];
-;
 function evaluandoPermiso({ rol, logueado }) {
     if ((rolesPermitidos.includes(rol)) && (logueado === true)) {
-        return "acceso permitido";
+        return `el usuario es ${rol} y puede pasar`;
     }
     else {
-        return "acceso denegado";
+        return `el usuario es ${rol} y su acceso esta denegado`;
     }
 }
-console.log(evaluandoPermiso(barry));
+console.log(evaluandoPermiso(pedrito));
