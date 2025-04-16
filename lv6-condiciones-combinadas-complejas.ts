@@ -11,10 +11,25 @@ let pedrito: User = {
   logueado:true
 }
 
-function evaluandoPermiso({rol,logueado}: User): string{
-  let respuesta: string = ((rol === "admin") && (logueado === true))?"pase permitido":"pase denegado";
-
-  return respuesta;
+let pascal: User = {
+  rol:"editor",
+  logueado:true
 }
 
-console.log(evaluandoPermiso(pedrito));
+let barry: User = {
+  rol:"editor",
+  logueado:false
+}
+
+function evaluandoPermiso({rol,logueado}: User): string{
+  
+  if(((rol === "admin") || (rol === "editor") || (rol === "visitante")) && (logueado === true)){
+    return "acceso permitido";
+  }else{
+    return "acceso denegado";
+  }
+
+  
+}
+
+console.log(evaluandoPermiso(barry));

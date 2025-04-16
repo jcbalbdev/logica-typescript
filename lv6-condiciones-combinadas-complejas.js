@@ -4,8 +4,20 @@ let pedrito = {
     rol: "admin",
     logueado: true
 };
+let pascal = {
+    rol: "editor",
+    logueado: true
+};
+let barry = {
+    rol: "editor",
+    logueado: false
+};
 function evaluandoPermiso({ rol, logueado }) {
-    let respuesta = ((rol === "admin") && (logueado === true)) ? "pase permitido" : "pase denegado";
-    return respuesta;
+    if (((rol === "admin") || (rol === "editor") || (rol === "visitante")) && (logueado === true)) {
+        return "acceso permitido";
+    }
+    else {
+        return "acceso denegado";
+    }
 }
-console.log(evaluandoPermiso(pedrito));
+console.log(evaluandoPermiso(barry));
