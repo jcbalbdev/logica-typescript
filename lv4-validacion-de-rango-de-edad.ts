@@ -39,4 +39,9 @@ function censo(nombre: string,edad: number): string{
   }
 }
 
+console.log(censo(userUno.nombre,userUno.edad));
+console.log(censo(userDos.nombre,userDos.edad));
+console.log(censo(userTres.nombre,userTres.edad));
+console.log(censo(userCuatro.nombre,userCuatro.edad));
+
 
