@@ -29,8 +29,10 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 
 
 ---
-
-## 🧐 Niveles de ejercicios
+<h2>
+  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="60" style="vertical-align: middle; margin-right: 8px;" />
+  Niveles de ejercicios
+</h2>
 
 ### 🦄 Nivel 1
 - [`lv1-suma-de-numeros.ts`](./lv1-suma-de-numeros.ts)
