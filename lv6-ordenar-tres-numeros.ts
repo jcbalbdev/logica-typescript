@@ -5,9 +5,9 @@ let s: number = 10;
 let t: number = 3;
 
 function menoramayor(a: number,b: number,c: number): string{
-  let mayor= a;
 
-  if(mayor){
+
+  if((a>b) && (a>c)){
     if(b>c){
       return `el orden de ${a}, ${b} y ${c} :  ${a} ${b} ${c}`;
     }else{

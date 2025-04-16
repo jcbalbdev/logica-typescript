@@ -4,8 +4,7 @@ let p = 2;
 let s = 10;
 let t = 3;
 function menoramayor(a, b, c) {
-    let mayor = a;
-    if (mayor) {
+    if ((a > b) && (a > c)) {
         if (b > c) {
             return `el orden de ${a}, ${b} y ${c} :  ${a} ${b} ${c}`;
         }
