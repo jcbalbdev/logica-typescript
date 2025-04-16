@@ -37,6 +37,8 @@
 - [`lv4-valores-falsy-y-truthy.ts`](./lv4-valores-falsy-y-truthy.ts)
 - [`lv4-verificacion-multiple-con-else-if.ts`](./lv4-verificacion-multiple-con-else-if.ts)
 - [`lv4-login-simple.ts`](./lv4-login-simple.ts)
+- [`lv4-validacion-de-rango-de-edad.ts`](./lv4-validacion-de-rango-de-edad.ts)
+- [`lv4-uso-de-operadores-logicos.ts`](./lv4-uso-de-operadores-logicos.ts)
 
 ### 🟢 Nivel 5
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
