@@ -7,8 +7,8 @@ var Operacion;
     Operacion["Producto"] = "*";
     Operacion["Division"] = "/";
 })(Operacion || (Operacion = {}));
-let numPrim = 12;
-let numSeg = 4;
+let numPrim = 15;
+let numSeg = 3;
 function calculadora(a, b, op) {
     switch (op) {
         case Operacion.Suma:
@@ -18,11 +18,9 @@ function calculadora(a, b, op) {
         case Operacion.Producto:
             return `el producto de ${a} y ${b} es ${a * b}`;
         case Operacion.Division:
-            return b !== 0
-                ? `La división de ${a} entre ${b} es ${a / b}`
-                : "Error: división entre cero";
+            return b !== 0 ? `la division de ${a} y ${b} es ${a / b}` : `Error: división entre cero`;
         default:
-            return `Operacion no valida`;
+            return `la Operacion no existe ene sta calculadora`;
     }
 }
-console.log(calculadora(numPrim, numSeg, Operacion.Division));
+console.log(calculadora(numPrim, numSeg, Operacion.Producto));
