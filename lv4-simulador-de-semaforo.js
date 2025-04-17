@@ -2,22 +2,20 @@
 /* Según el color (rojo, amarillo, verde), muestra qué hacer: "Detente", "Precaución", "Avanza". */
 var Color;
 (function (Color) {
-    Color["Rojo"] = "Detente";
-    Color["Amarillo"] = "Precauci\u00F3n";
-    Color["Verde"] = "Avanza";
+    Color["Rojo"] = "rojo";
+    Color["Verde"] = "verde";
+    Color["Amarillo"] = "amarillo";
 })(Color || (Color = {}));
 function semaforoEn(color) {
-    if (color === Color.Rojo) {
-        return `el semaforo esta en rojo asi que ${Color.Rojo}`;
-    }
-    else if (color === Color.Amarillo) {
-        return `el semaforo esta en amarillo asi que ${Color.Amarillo}`;
-    }
-    else if (color === Color.Verde) {
-        return `el semaforo esta en verde asi que ten ${Color.Verde}`;
-    }
-    else {
-        return `el semaforo esta apagado`;
+    switch (color) {
+        case Color.Rojo:
+            return `El semáforo está en ${color}, así que Detente`;
+        case Color.Amarillo:
+            return `El semáforo está en ${color}, así que Precaución`;
+        case Color.Verde:
+            return `El semáforo está en ${color}, así que Avanza`;
+        default:
+            return "El semáforo está apagado";
     }
 }
-console.log(semaforoEn(Color.Amarillo));
+console.log(semaforoEn(Color.Verde));
