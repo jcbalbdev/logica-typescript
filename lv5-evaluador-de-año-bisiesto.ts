@@ -9,3 +9,5 @@ function esBisiesto(año: number): string{
     return "No es bisiesto";
   }
 }
+
+console.log(esBisiesto(año));
