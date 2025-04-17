@@ -24,5 +24,4 @@ function calculadora(a: number,b: number,op: string): string{
       break;
   }
 }
-
-
+console.log(calculadora(numPrim,numSeg,"+"));

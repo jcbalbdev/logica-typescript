@@ -20,3 +20,4 @@ function calculadora(a, b, op) {
             break;
     }
 }
+console.log(calculadora(numPrim, numSeg, "+"));
