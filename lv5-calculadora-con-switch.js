@@ -13,19 +13,16 @@ function calculadora(a, b, op) {
     switch (op) {
         case Operacion.Suma:
             return `la suma de ${a} y ${b} es ${a + b}`;
-            break;
         case Operacion.Resta:
             return `la resta de ${a} y ${b} es ${a - b}`;
-            break;
         case Operacion.Producto:
             return `el producto de ${a} y ${b} es ${a * b}`;
-            break;
         case Operacion.Division:
-            return `la division de ${a} y ${b} es ${a / b}`;
-            break;
+            return b !== 0
+                ? `La división de ${a} entre ${b} es ${a / b}`
+                : "Error: división entre cero";
         default:
             return `Operacion no valida`;
-            break;
     }
 }
 console.log(calculadora(numPrim, numSeg, Operacion.Division));
