@@ -1,6 +1,6 @@
 /* Simula una entrada del usuario para ingresar un número. Valida si es realmente un número y muestra un error si no lo es. */
 
-let codigo: number | string = "34";
+let codigo: number | string = "Barry allen";
 
 function evaluandoCodigo(codigo: number | string): string{
   let tipo = typeof(codigo);

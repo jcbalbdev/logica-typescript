@@ -1,6 +1,6 @@
 "use strict";
 /* Simula una entrada del usuario para ingresar un número. Valida si es realmente un número y muestra un error si no lo es. */
-let codigo = "34";
+let codigo = "Barry allen";
 function evaluandoCodigo(codigo) {
     let tipo = typeof (codigo);
     switch (tipo) {
