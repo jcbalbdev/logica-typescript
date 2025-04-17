@@ -17,7 +17,7 @@
 ---
 
 <h2>
-  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="60" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxucmw5aWYwMG0yaWNwNDh6MTFlbDhmMHN0aHU0ZmpzcXRobzlmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Nyan Cat" width="60" style="vertical-align: middle; margin-right: 8px;" />
   ¿Qué es esto?
 </h2>
 
