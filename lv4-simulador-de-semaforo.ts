@@ -12,7 +12,7 @@ function semaforoEn(color: Color): string{
   } else if(color === Color.Amarillo){
     return `el semaforo esta en amarillo asi que ${Color.Amarillo}`;
   } else if(color === Color.Verde){
-    return `el semaforo esta en verde asi que ${Color.Verde}`;
+    return `el semaforo esta en verde asi que ten ${Color.Verde}`;
   }else{
     return `el semaforo esta apagado`;
   }
