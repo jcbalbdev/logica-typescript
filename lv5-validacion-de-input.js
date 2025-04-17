@@ -8,7 +8,7 @@ function validandoCodigo(codigo) {
         return `Código correcto`;
     }
     else {
-        return `Código incorrecto`;
+        return `Código incorrecto ingresa un numero`;
     }
 }
 console.log(validandoCodigo(codigo));
