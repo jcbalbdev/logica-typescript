@@ -1,6 +1,6 @@
 "use strict";
 /* Dado un año, determina si es bisiesto: divisible por 4, pero no por 100, excepto si también es divisible por 400. */
-let año = 1900;
+let año = 2000;
 function esBisiesto(año) {
     if ((año % 4 === 0) && (año % 100 !== 0) && (año % 400 === 0)) {
         return `el año  ${año} es bisiesto`;
