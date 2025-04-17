@@ -69,6 +69,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv5-tipos-personalizados-con-type-e-interface.ts`](./lv5-tipos-personalizados-con-type-e-interface.ts)
 - [`lv5-menor-de-tres-numeros.ts`](./lv5-menor-de-tres-numeros.ts)
 - [`lv5-ternario-anidado.ts`](./lv5-ternario-anidado.ts)
+- [`lv5-calculadora-con-switch.ts`](./lv5-calculadora-con-switch.ts)
 
 ### 🦄 Nivel 6
 - [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
