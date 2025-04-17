@@ -1,17 +1,17 @@
 /* Simula una entrada del usuario para ingresar un número. Valida si es realmente un número y muestra un error si no lo es. */
 
-let codigo: number | string = "Barry allen";
+/* en casos reales el formulario recibe solo string aunque escribas 123 */
 
-function evaluandoCodigo(codigo: number | string): string{
-  let tipo = typeof(codigo);
-  switch (tipo) {
-    case "number" :
-      return `Codigo correcto`;
-    case "string" :
-      return `ERROR ingresa un numero`;
-    default:
-      return `tipo invalido`;
+let codigo: string = "1jafjlhahfgakbc";
+
+function validandoCodigo(codigo: string): string{
+  let codigoNumerico = Number(codigo);
+  if (!isNaN(codigoNumerico)) {
+    return `Código correcto`;
+  } else {
+    return `Código incorrecto`;
   }
 }
 
-console.log(evaluandoCodigo(codigo));
+
+console.log(validandoCodigo(codigo));
