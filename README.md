@@ -16,10 +16,10 @@
 
 ---
 
-<h2>
+<h1>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxucmw5aWYwMG0yaWNwNDh6MTFlbDhmMHN0aHU0ZmpzcXRobzlmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Nyan Cat" width="40" style="vertical-align: middle; margin-right: 8px;" />
   ¿Qué es esto?
-</h2>
+</h1>
 
 
 Un recorrido paso a paso para que desarrolles y domines tu lógica de programación usando TypeScript. Aquí no solo aprendes, ¡también te diviertes!
