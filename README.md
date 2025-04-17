@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" alt="Logo de Github" width="100" />
   <br/>
   <strong>Lógica con TypeScript</strong>
+  <br/>
+  <strong>39</strong>
 </h1>
 
 <p align="center">
