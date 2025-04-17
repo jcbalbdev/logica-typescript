@@ -28,4 +28,4 @@ function calculadora(a, b, op) {
             break;
     }
 }
-console.log(calculadora(numPrim, numSeg, "/"));
+console.log(calculadora(numPrim, numSeg, Operacion.Division));

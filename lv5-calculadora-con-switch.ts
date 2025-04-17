@@ -11,7 +11,7 @@ let numPrim: number = 12;
 let numSeg: number =4;
 
 
-function calculadora(a: number,b: number,op: string): string{
+function calculadora(a: number,b: number,op: Operacion): string{
   switch (op) {
     case Operacion.Suma:
       return `la suma de ${a} y ${b} es ${a+b}`;
@@ -30,4 +30,4 @@ function calculadora(a: number,b: number,op: string): string{
       break;
   }
 }
-console.log(calculadora(numPrim,numSeg,"/"));
+console.log(calculadora(numPrim,numSeg,Operacion.Division));
