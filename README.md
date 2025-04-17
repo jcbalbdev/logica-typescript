@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ255YmgyNjg5NWp2MmlhN2hkZHhicnYxaWtxYmxqZnV1dGx1bHJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Logo de Github" width="80" />
+  <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" alt="Logo de Github" width="80" />
   <br/>
   <strong>Lógica con TypeScript</strong>
 </h1>
