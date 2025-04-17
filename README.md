@@ -30,7 +30,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 
 ---
 <h2>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF6bWJjdGthZGRoNDNvMG02YmNxY2NyOG4xcDNlcm0yZWRtbTVibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif" alt="Nyan Cat" width="60" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="60" style="vertical-align: middle; margin-right: 8px;" />
   Niveles de ejercicios
 </h2>
 
