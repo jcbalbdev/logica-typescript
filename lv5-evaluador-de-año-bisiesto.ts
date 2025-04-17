@@ -3,18 +3,10 @@
 let año: number  = 2400;
 
 function esBisiesto(año: number): string{
-  if(año % 4 === 0){
-    if(año % 100 !== 0){
-      if(año % 400 === 0){
-        return `el ${año} es bisiesto`;
-      }else{
-        return `el ${año} no es bisiesto`;
-      }
-    }else{
-      return `el ${año} no es bisiesto`;
-    }
+  if(((año%4===0) && (año%100!==0)) || (año%400===0)){
+    return `el año  ${año} es bisiesto`;
   }else{
-    return `el ${año} no es bisiesto`;
+    return `el año ${año} no es bisiesto`;
   }
 }
 
