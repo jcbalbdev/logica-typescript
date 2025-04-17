@@ -5,9 +5,9 @@ function evaluandoCodigo(codigo) {
     let tipo = typeof (codigo);
     switch (tipo) {
         case "number":
-            return `es de tipo number`;
+            return `Codigo correcto`;
         case "string":
-            return `es de tipo string`;
+            return `ERROR ingresa un numero`;
         default:
             return `tipo invalido`;
     }
