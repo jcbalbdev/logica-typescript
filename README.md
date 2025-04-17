@@ -3,7 +3,7 @@
   <br/>
   <strong>Lógica con TypeScript</strong>
   <br/>
-  <strong>39 Ejercicios repartidos por 7 Niveles</strong>
+  <strong>40 Ejercicios repartidos por 7 Niveles</strong>
 </h1>
 
 <p align="center">
@@ -83,6 +83,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv6-validacion-y-control-de-entrada-de-datos.ts`](./lv6-validacion-y-control-de-entrada-de-datos.ts)
 - [`lv6-ordenar-tres-numeros.ts`](./lv6-ordenar-tres-numeros.ts)
 - [`lv6-condiciones-combinadas-complejas.ts`](./lv6-condiciones-combinadas-complejas.ts)
+- [`lv6-clasificador-de-caracteres.ts`](./lv6-clasificador-de-caracteres.ts)
 
 
 ### 🦄 Nivel 7
