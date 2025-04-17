@@ -17,13 +17,13 @@ function calculadora(a: number,b: number,op: string): string{
       return `la suma de ${a} y ${b} es ${a+b}`;
       break;
     case Operacion.Resta:
-      return `la suma de ${a} y ${b} es ${a-b}`;
+      return `la resta de ${a} y ${b} es ${a-b}`;
       break;
     case Operacion.Producto:
-      return `la suma de ${a} y ${b} es ${a*b}`;
+      return `el producto de ${a} y ${b} es ${a*b}`;
       break; 
     case Operacion.Division:
-      return `la suma de ${a} y ${b} es ${a/b}`;
+      return `la division de ${a} y ${b} es ${a/b}`;
       break;  
     default:
       return `Operacion no valida`;
