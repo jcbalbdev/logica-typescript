@@ -33,4 +33,4 @@ function janken(playerUno: number,playerDos: number): string{
   }
 } 
 
-console.log(janken(cpu,pedroPascal));
+console.log(janken(pedroPascal,cpu));
