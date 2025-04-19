@@ -1,4 +1,4 @@
 "use strict";
 /* Dadas dos fechas como strings (tipo "2025-04-01"), muestra cuál es anterior. Usa Date y condiciones */
-let fecha = new Date();
+const fecha = new Date();
 console.log(fecha);
