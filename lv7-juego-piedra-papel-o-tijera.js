@@ -41,4 +41,4 @@ function janken(playerUno, playerDos) {
         return `no se escogio una opcion optima`;
     }
 }
-console.log(janken(cpu, cpu));
+console.log(janken(cpu, pedroPascal));
