@@ -1,7 +1,7 @@
 "use strict";
 /* Simula la validación de una contraseña ingresada dos veces. Muestra si coinciden o no y si cumple longitud mínima. */
-let primerIngreso = "dominatrix12345";
-let segundoIngreso = "dominatrix12345";
+let primerIngreso = "domina";
+let segundoIngreso = "domina";
 function validacionPass(primerIngreso, segundoIngreso, min) {
     let longitudPass = primerIngreso.length;
     if (primerIngreso === segundoIngreso) {
@@ -16,3 +16,4 @@ function validacionPass(primerIngreso, segundoIngreso, min) {
         return `las contraseñas no coinciden`;
     }
 }
+console.log(validacionPass(primerIngreso, segundoIngreso, 8));
