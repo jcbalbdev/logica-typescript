@@ -5,11 +5,7 @@ let ns: number = 10;
 let nt: number = 10;
 
 function comparando(pv: number,sv: number,tv: number): boolean{
-  if ((pv-(sv+tv) === 0) || (sv-(pv+tv) === 0) || (tv-(sv+pv) === 0) ) {
-    return true;
-  } else {
-    return false
-  }
+  return (pv === (sv+tv)) || (sv === (pv+tv)) || (tv === (sv+pv))
 }
 
 console.log(comparando(np,ns,nt));

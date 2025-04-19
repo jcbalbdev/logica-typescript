@@ -4,11 +4,6 @@ let np = 0;
 let ns = 10;
 let nt = 10;
 function comparando(pv, sv, tv) {
-    if ((pv - (sv + tv) === 0) || (sv - (pv + tv) === 0) || (tv - (sv + pv) === 0)) {
-        return true;
-    }
-    else {
-        return false;
-    }
+    return (pv === (sv + tv)) || (sv === (pv + tv)) || (tv === (sv + pv));
 }
 console.log(comparando(np, ns, nt));
