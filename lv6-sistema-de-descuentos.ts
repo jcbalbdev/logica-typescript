@@ -9,17 +9,30 @@ enum Cliente{
 
 function descuento(cliente: Cliente,monto: string): string{
   let montoNum: number = Number(monto);
+  let porcentaje: number;
+  let mensajeCliente: string;
 
   switch (cliente){
-    case Cliente.Nuevo:;
-      return (montoNum >= 1000)? `Descuento del 25% por ser nuevo cliente, monto final: ${montoNum - (montoNum*0.25)}`:`Descuento del 10% por ser nuevo cliente, monto final: ${montoNum - (montoNum*0.10)}`;
-    case Cliente.Frecuente:
-      return (montoNum >= 1000)? `Descuento del 40% por ser cliente frecuente, monto final: ${montoNum - (montoNum*0.40)}`:`Descuento del 15% por ser cliente frecuente, monto final: ${montoNum - (montoNum*0.15)}`;
-    case Cliente.Vip:
-      return (montoNum >= 1000)? `Descuento del 20% por ser cliente VIP, monto final: ${montoNum - (montoNum*0.50)}`:`Descuento del 10% por ser cliente VIP, monto final: ${montoNum - (montoNum*0.20)}`;
+    case Cliente.Nuevo :
+      porcentaje = montoNum >= 1000?0.25:0.10;
+      mensajeCliente = "nuevo cliente";
+      break;
+    case Cliente.Frecuente :
+      porcentaje = montoNum >= 1000?0.40:0.15;
+      mensajeCliente = "cliente frecuente";
+      break;
+    case Cliente.Vip :
+      porcentaje = montoNum >= 1000?0.50:0.20;
+      mensajeCliente = "cliente VIP";
+      break;
     default:
-      return `el cliente no pertenece a la tienda`;
+      return "El cliente no pertenece a la tienda";
   }
+
+  let montoFinal: number = montoNum - montoNum*porcentaje;
+  let porcentajeTexto: string = String(porcentaje*100);
+
+  return `Descuento del ${porcentajeTexto}% por ser ${mensajeCliente}, monto final: ${montoFinal}`; 
 }
 
 console.log(descuento(Cliente.Vip,"1500"));
