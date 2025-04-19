@@ -6,7 +6,7 @@ let segundoIngreso: string = "dominatrix12345";
 function validacionPass(primerIngreso: string,segundoIngreso: string,min: number): string{
   let longitudPass: number = primerIngreso.length;
   if(primerIngreso === segundoIngreso){
-    if(longitudPass >= 8){
+    if(longitudPass >= min){
       return `la contraseña es valida`;
     }else{
       return `la contraseña no es valida, numero insuficiente de caracteres`;
