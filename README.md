@@ -3,7 +3,7 @@
   <br/>
   <strong>Lógica con TypeScript</strong>
   <br/>
-  <strong>40 Ejercicios repartidos por 7 Niveles</strong>
+  <strong>40 Ejercicios repartidos por 10 Niveles</strong>
 </h1>
 
 <p align="center">
@@ -92,6 +92,11 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv7-prueba-de-tipos-con-errores-controlados.ts`](./lv7-prueba-de-tipos-con-errores-controlados.ts)
 - [`lv7-casting-entre-tipos-complejos.ts`](./lv7-casting-entre-tipos-complejos.ts)
 - [`lv7-juego-piedra-papel-o-tijera.ts`](./lv7-juego-piedra-papel-o-tijera.ts)
+
+
+### 🦄 Nivel 8
+- [`lv8-reto-logico-con-condicionales.ts`](./lv8-reto-logico-con-condicionales.ts)
+
 
 ---
 
