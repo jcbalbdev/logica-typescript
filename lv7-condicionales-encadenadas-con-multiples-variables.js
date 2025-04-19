@@ -1,8 +1,7 @@
 "use strict";
 /* Si una persona tiene más de 18 años, un carnet válido y no tiene multas, puede conducir. Evalúa con if. */
 function permisoDeConducir({ edadPersona, carnetValido, tieneMultas }) {
-    let condicion = ((edadPersona > 18) && (carnetValido === true) && (tieneMultas === false));
-    if (condicion) {
+    if (edadPersona > 18 && carnetValido && tieneMultas) {
         return `la persona puede conducir`;
     }
     else {

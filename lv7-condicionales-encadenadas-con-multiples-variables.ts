@@ -8,9 +8,7 @@ interface Conductor{
 
 function permisoDeConducir({edadPersona,carnetValido,tieneMultas}: Conductor): string{
   
-  let condicion: boolean = ((edadPersona > 18) && (carnetValido === true) && (tieneMultas === false));
-  
-  if(condicion){
+  if(edadPersona > 18 && carnetValido && tieneMultas){
     return `la persona puede conducir`;
   }else{
     return `la persona no puede conducir`;
