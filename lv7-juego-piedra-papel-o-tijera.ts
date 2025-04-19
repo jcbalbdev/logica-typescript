@@ -2,9 +2,11 @@
 /* piedra = 1 , tijera = 2 , papel = 3*/
 
 enum Opciones{
-  Piedra ="piedra",
-  Papel = "papel",
-  Tijera = "tijera"
+  Piedra = 1,
+  Papel = 2,
+  Tijera = 3
 }
+
+
 
 

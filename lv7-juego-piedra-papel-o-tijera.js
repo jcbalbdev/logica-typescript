@@ -3,7 +3,7 @@
 /* piedra = 1 , tijera = 2 , papel = 3*/
 var Opciones;
 (function (Opciones) {
-    Opciones["Piedra"] = "piedra";
-    Opciones["Papel"] = "papel";
-    Opciones["Tijera"] = "tijera";
+    Opciones[Opciones["Piedra"] = 1] = "Piedra";
+    Opciones[Opciones["Papel"] = 2] = "Papel";
+    Opciones[Opciones["Tijera"] = 3] = "Tijera";
 })(Opciones || (Opciones = {}));
