@@ -22,7 +22,7 @@ function permisoDeConducir({edadPersona,carnetValido,tieneMultas}: Conductor): s
 let batman: Conductor = {
   edadPersona:21,
   carnetValido:true,
-  tieneMultas:false
+  tieneMultas:true
 }
 
 

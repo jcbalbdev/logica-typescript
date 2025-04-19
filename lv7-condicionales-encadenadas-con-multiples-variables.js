@@ -15,6 +15,6 @@ function permisoDeConducir({ edadPersona, carnetValido, tieneMultas }) {
 let batman = {
     edadPersona: 21,
     carnetValido: true,
-    tieneMultas: false
+    tieneMultas: true
 };
 console.log(permisoDeConducir(batman));
