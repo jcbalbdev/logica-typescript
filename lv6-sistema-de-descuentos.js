@@ -21,4 +21,4 @@ function descuento(cliente, monto) {
             return `el cliente no pertenece a la tienda`;
     }
 }
-console.log(descuento(Cliente.Nuevo, "1500"));
+console.log(descuento(Cliente.Vip, "1500"));

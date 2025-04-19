@@ -22,4 +22,4 @@ function descuento(cliente: Cliente,monto: string): string{
   }
 }
 
-console.log(descuento(Cliente.Nuevo,"1500"));
+console.log(descuento(Cliente.Vip,"1500"));
