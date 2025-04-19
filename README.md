@@ -91,6 +91,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 ### 🦄 Nivel 7
 - [`lv7-prueba-de-tipos-con-errores-controlados.ts`](./lv7-prueba-de-tipos-con-errores-controlados.ts)
 - [`lv7-casting-entre-tipos-complejos.ts`](./lv7-casting-entre-tipos-complejos.ts)
+- [`lv7-juego-piedra-papel-o-tijera.ts`](./lv7-juego-piedra-papel-o-tijera.ts)
 
 ---
 
