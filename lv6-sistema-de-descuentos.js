@@ -31,4 +31,4 @@ function descuento(cliente, monto) {
     let porcentajeTexto = String(porcentaje * 100);
     return `Descuento del ${porcentajeTexto}% por ser ${mensajeCliente}, monto final: ${montoFinal}`;
 }
-console.log(descuento(Cliente.Vip, "1500"));
+console.log(descuento(Cliente.Frecuente, "1500"));
