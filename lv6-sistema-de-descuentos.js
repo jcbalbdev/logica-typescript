@@ -16,7 +16,7 @@ function descuento(cliente, monto) {
         case Cliente.Frecuente:
             return (montoNum >= 1000) ? `Descuento del 40% por ser cliente frecuente, monto final: ${montoNum - (montoNum * 0.40)}` : `Descuento del 15% por ser cliente frecuente, monto final: ${montoNum - (montoNum * 0.15)}`;
         case Cliente.Vip:
-            return (montoNum >= 1000) ? `Descuento del 20% por ser cliente frecuente, monto final: ${montoNum - (montoNum * 0.50)}` : `Descuento del 10% por ser cliente frecuente, monto final: ${montoNum - (montoNum * 0.20)}`;
+            return (montoNum >= 1000) ? `Descuento del 20% por ser cliente VIP, monto final: ${montoNum - (montoNum * 0.50)}` : `Descuento del 10% por ser cliente VIP, monto final: ${montoNum - (montoNum * 0.20)}`;
         default:
             return `el cliente no pertenece a la tienda`;
     }
