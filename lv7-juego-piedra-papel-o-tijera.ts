@@ -32,3 +32,5 @@ function janken(playerUno: number,playerDos: number): string{
     return `no se escogio una opcion optima`;
   }
 } 
+
+console.log(janken(pedroPascal,cpu));
