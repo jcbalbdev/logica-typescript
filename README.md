@@ -86,6 +86,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv6-condiciones-combinadas-complejas.ts`](./lv6-condiciones-combinadas-complejas.ts)
 - [`lv6-clasificador-de-caracteres.ts`](./lv6-clasificador-de-caracteres.ts)
 - [`lv6-sistema-de-descuentos.ts`](./lv6-clasificador-de-caracteres.ts)
+- [`lv6-comparacion-de-fechas.ts`](./lv6-comparacion-de-fechas.ts)
 
 
 ### 🦄 Nivel 7
