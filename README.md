@@ -75,7 +75,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv5-calculadora-con-switch.ts`](./lv5-calculadora-con-switch.ts)
 - [`lv5-evaluador-de-año-bisiesto.ts`](./lv5-evaluador-de-año-bisiesto.ts)
 - [`lv5-validacion-de-input.ts`](./lv5-validacion-de-input.ts)
-- [`lv5-comparacion-de-contraseñas.ts`](./lv5-validacion-de-input.ts)
+- [`lv5-comparacion-de-contraseñas.ts`](./lv5-comparacion-de-contraseñas.ts)
 
 ### 🦄 Nivel 6
 - [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
