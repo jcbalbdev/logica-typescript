@@ -1,7 +1,7 @@
 /* Dadas dos fechas como strings (tipo "2025-04-01"), muestra cuál es anterior. Usa Date y condiciones */
 
-let fechaUno: Date = new Date("2025-04-03");
-let fechaDos: Date = new Date("2025-04-04");
+let fechaUno: Date = new Date("2025-04-03T12:00:00");
+let fechaDos: Date = new Date("2025-04-04T12:00:00");
 
 
 function validarFechas(fechaUno: Date,fechaDos: Date): string{
