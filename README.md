@@ -3,7 +3,7 @@
   <br/>
   <strong>Lógica con TypeScript</strong>
   <br/>
-  <strong>40 Ejercicios repartidos por 10 Niveles</strong>
+  <strong>45 Ejercicios repartidos por 10 Niveles</strong>
 </h1>
 
 <p align="center">
