@@ -2,4 +2,4 @@
 
 const fecha: Date = new Date();
 
-console.log(fecha.toLocaleString())
+console.log(fecha.toLocaleString());
