@@ -3,6 +3,6 @@
 let fechaUno = new Date("2025-04-03");
 let fechaDos = new Date("2025-04-04");
 function validarFechas(fechaUno, fechaDos) {
-    return ((fechaDos.getTime() - fechaUno.getTime()) > 0) ? `ayer fue ${fechaUno.toLocaleDateString()}` : `ayer fue ${fechaDos.toLocaleDateString()}`;
+    return ((fechaDos.getTime() - fechaUno.getTime()) > 0) ? `ayer fue ${fechaUno.toLocaleDateString("es-PE")}` : `ayer fue ${fechaDos.toLocaleDateString("es-PE")}`;
 }
 console.log(validarFechas(fechaUno, fechaDos));
