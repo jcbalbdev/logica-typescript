@@ -5,8 +5,12 @@ let otroNume: number = 5;
 
 function multiplicación(a: number,b :number): string{
   let operacion: number = 0;
-  for (let i: number = 0; i < b; i++) {
-    operacion+=a
+
+  let max: number = Math.max(a,b);
+  let min: number = Math.min(a,b);
+
+  for (let i: number = 0; i < min; i++) {
+    operacion+=max
     
   }
   return `la multiplicacion de ${a} y ${b} es : ${operacion}`;
