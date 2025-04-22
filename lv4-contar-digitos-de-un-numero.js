@@ -11,9 +11,9 @@ function numeroDeDigitos(numero) {
         cont++;
         numero = cociente;
     }
+    return `el numero tiene ${cont} digitos`;
 }
-console.log(miNum % 10);
-console.log(Math.floor(miNum / 10));
+console.log(numeroDeDigitos(1234));
 /*
 n = 1234
 10

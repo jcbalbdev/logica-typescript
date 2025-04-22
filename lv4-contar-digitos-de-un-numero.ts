@@ -1,20 +1,22 @@
 /* Dado un número, cuenta cuántos dígitos tiene (sin convertirlo a string). */
 let miNum: number = 1234
 
-function numeroDeDigitos(numero: number){
+function numeroDeDigitos(numero: number): string{
   let cont: number = 0;
   let residuo: number;
   let cociente: number;
+
   for (let i = 0; numero>=10 ; i++) {
     residuo = numero%10;
     cociente = Math.floor(numero/10);
     cont++
     numero=cociente;
   }
+  
+  return `el numero tiene ${cont} digitos`
 }
 
-console.log(miNum%10);
-console.log(Math.floor(miNum/10));
+console.log(numeroDeDigitos(1234))
 
 /* 
 n = 1234
