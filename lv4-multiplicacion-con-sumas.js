@@ -24,6 +24,7 @@ function multiplicacion(a, b) {
     else if ((a < 0) && (b > 0)) {
         a = -a;
         respuesta = -multiplicacionPositivo(a, b);
+        a = -a;
     }
     else if ((a > 0) && (b < 0)) {
         b = -b;
