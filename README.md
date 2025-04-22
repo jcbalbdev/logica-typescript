@@ -74,6 +74,9 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv4-switch-con-multiples-casos.ts`](./lv4-switch-con-multiples-casos.ts)
 - [`lv4-simulador-de-semaforo.ts`](./lv4-simulador-de-semaforo.ts)
 - [`lv4-multiplicacion-con-sumas.ts`](./lv4-multiplicacion-con-sumas.ts)
+- [`lv4-potencia-con-bucle.ts`](./lv4-potencia-con-bucle.ts)
+- [`lv4-factorial.ts`](./lv4-factorial.ts)
+- [`lv4-contar-digitos-de-un-numero.ts`](./lv4-contar-digitos-de-un-numero.ts)
 
 ### 🦄 Nivel 5
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
@@ -85,6 +88,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv5-evaluador-de-año-bisiesto.ts`](./lv5-evaluador-de-año-bisiesto.ts)
 - [`lv5-validacion-de-input.ts`](./lv5-validacion-de-input.ts)
 - [`lv5-comparacion-de-contraseñas.ts`](./lv5-comparacion-de-contraseñas.ts)
+- [`lv5-numero-primo.ts`](./lv5-numero-primo.ts)
 
 ### 🦄 Nivel 6
 - [`lv6-control-de-tipos.ts`](./lv6-control-de-tipos.ts)
