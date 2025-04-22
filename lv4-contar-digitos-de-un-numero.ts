@@ -2,3 +2,4 @@
 let miNum: number = 1234
 
 console.log(miNum%10);
+console.log(Math.floor(miNum/10));
