@@ -59,6 +59,9 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv3-sistema-de-calificaciones.ts`](./lv3-sistema-de-calificaciones.ts)
 - [`lv3-switch-estacion-del-año.ts`](./lv3-switch-estacion-del-año.ts)
 - [`lv3-uso-de-ternario-simple.ts`](./lv3-uso-de-ternario-simple.ts)
+- [`lv3-validacion-con-do-while.ts`](./lv3-validacion-con-do-while.ts)
+- [`lv3-suma-de-numeros-hasta-que-sea-mayor-a-100.ts`](./lv3-suma-de-numeros-hasta-que-sea-mayor-a-100.ts)
+- [`lv3-patron-de-asteriscos-triangulo-recto.ts`](./lv3-patron-de-asteriscos-triangulo-recto.ts)
 
 ### 🦄 Nivel 4
 - [`lv4-calculadora-basica.ts`](./lv4-calculadora-basica.ts)
