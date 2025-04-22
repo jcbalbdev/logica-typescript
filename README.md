@@ -39,6 +39,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 ### 🦄 Nivel 1
 - [`lv1-suma-de-numeros.ts`](./lv1-suma-de-numeros.ts)
 - [`lv1-es-mayor-de-edad.ts`](./lv1-es-mayor-de-edad.ts)
+- [`lv1-cuenta-del-uno-al-diez.ts`](./lv1-cuenta-del-uno-al-diez.ts)
 
 ### 🦄 Nivel 2
 - [`lv2-concatenacion-de-texto.ts`](./lv2-concatenacion-de-texto.ts)
@@ -46,6 +47,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts`](./lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts)
 - [`lv2-usando-const.ts`](./lv2-usando-const.ts)
 - [`lv2-numero-positivo-negativo-o-cero.ts`](./lv2-numero-positivo-negativo-o-cero.ts)
+- [`lv2-suma-de-los-primeros-100-numeros.ts`](./lv2-suma-de-los-primeros-100-numeros.ts)
 
 ### 🦄 Nivel 3
 - [`lv3-comparacion-estricta-vs-noestricta.ts`](./lv3-comparacion-estricta-vs-noestricta.ts)
