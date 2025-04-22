@@ -13,10 +13,20 @@ function multiplicacionPositivo(a, b) {
 }
 function multiplicacion(a, b) {
     let respuesta;
-    if (((a > 0) && (b > 0)) || ((a < 0) && (b < 0))) {
+    if ((a > 0) && (b > 0)) {
         respuesta = multiplicacionPositivo(a, b);
     }
-    else if ((a < 0) || (b < 0)) {
+    else if ((a < 0) && (b < 0)) {
+        a = -a;
+        b = -b;
+        respuesta = -multiplicacionPositivo(a, b);
+    }
+    else if ((a < 0) && (b > 0)) {
+        a = -a;
+        respuesta = -multiplicacionPositivo(a, b);
+    }
+    else if ((a > 0) && (b < 0)) {
+        b = -b;
         respuesta = -multiplicacionPositivo(a, b);
     }
     else {
