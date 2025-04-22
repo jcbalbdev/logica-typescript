@@ -1,6 +1,6 @@
 /* Calcula el factorial de un número n. */
 
-let numPrueba: number = 5;
+let numPrueba: number = 1;
 
 function factorial(num: number): string{
   let comodin: number=1;
@@ -15,8 +15,3 @@ function factorial(num: number): string{
 }
 
 console.log(factorial(numPrueba));
-/* 
-4x3x2x1
-n=1
-n=nx(i+1)
-*/
