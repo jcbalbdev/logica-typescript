@@ -4,6 +4,6 @@ let sumaAleatorio: number = 0;
 
 while(sumaAleatorio<100){
   aleatorio = Math.floor(Math.random()*10 + 1);
-  console.log(aleatorio);
   sumaAleatorio+=aleatorio;
+  console.log(`🎲 Número: ${aleatorio} | 🔢 Suma acumulada: ${sumaAleatorio}`);
 }
