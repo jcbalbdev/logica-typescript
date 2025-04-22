@@ -19,23 +19,3 @@ function numeroDeDigitos(numero: number): string{
 
 console.log(numeroDeDigitos(miNum))
 
-/* 
-n = 1234
-10
-r=4
-q=123
-c=1
-
-n=q
-r=3
-q=12
-
-n=q
-r=2
-q=1
-
-n=1(n<10)
-
-
-
-*/
