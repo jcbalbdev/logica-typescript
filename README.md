@@ -73,6 +73,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv4-uso-de-operadores-logicos.ts`](./lv4-uso-de-operadores-logicos.ts)
 - [`lv4-switch-con-multiples-casos.ts`](./lv4-switch-con-multiples-casos.ts)
 - [`lv4-simulador-de-semaforo.ts`](./lv4-simulador-de-semaforo.ts)
+- [`lv4-multiplicacion-con-sumas.ts`](./lv4-multiplicacion-con-sumas.ts)
 
 ### 🦄 Nivel 5
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
