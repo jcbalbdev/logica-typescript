@@ -1,5 +1,5 @@
 /* Dado un número, determina si es primo (tiene solo dos divisores: 1 y él mismo). */
-let esPrimo: number  = 4;
+let esPrimo: number  = 7;
 
 function numeroPrimo(numero: number): string{
   let contador: number = 0;
@@ -15,3 +15,5 @@ function numeroPrimo(numero: number): string{
 
   return `es primo`
 }
+
+console.log(numeroPrimo(esPrimo));

@@ -1,6 +1,6 @@
 "use strict";
 /* Dado un número, determina si es primo (tiene solo dos divisores: 1 y él mismo). */
-let esPrimo = 4;
+let esPrimo = 7;
 function numeroPrimo(numero) {
     let contador = 0;
     for (let i = 1; i <= numero; i++) {
@@ -13,3 +13,4 @@ function numeroPrimo(numero) {
     }
     return `es primo`;
 }
+console.log(numeroPrimo(esPrimo));
