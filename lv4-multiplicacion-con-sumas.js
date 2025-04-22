@@ -13,7 +13,7 @@ function multiplicacionPositivo(a, b) {
 }
 function multiplicacion(a, b) {
     let respuesta;
-    if ((a > 0) && (b > 0)) {
+    if (((a > 0) && (b > 0)) || ((a < 0) && (b < 0))) {
         respuesta = multiplicacionPositivo(a, b);
     }
     else if ((a < 0) || (b < 0)) {

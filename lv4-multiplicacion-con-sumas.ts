@@ -19,7 +19,7 @@ function multiplicacionPositivo(a: number,b :number): number{
 
 function multiplicacion(a: number,b :number): string{
   let respuesta: number ;
-  if((a>0) && (b>0)){
+  if(((a>0) && (b>0)) || ((a<0) && (b<0))){
     respuesta = multiplicacionPositivo(a,b);
   }else if((a<0) || (b<0)){
     respuesta = -multiplicacionPositivo(a,b);
