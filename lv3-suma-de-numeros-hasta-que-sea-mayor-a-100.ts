@@ -5,5 +5,5 @@ let sumaAleatorio: number = 0;
 while(sumaAleatorio<100){
   aleatorio = Math.floor(Math.random()*10 + 1);
   sumaAleatorio+=aleatorio;
-  console.log(`🎲 Número: ${aleatorio} | 🔢 Suma acumulada: ${sumaAleatorio}`);
+  console.log(`Número: ${aleatorio} | Suma acumulada: ${sumaAleatorio}`);
 }
