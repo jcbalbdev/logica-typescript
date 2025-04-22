@@ -4,10 +4,14 @@ let numPrueba: number = 5;
 
 function factorial(num: number): string{
   let comodin: number=1;
-  for(let i: number=0;i<num;i++){
-    comodin=comodin*(i+1);
+  if(num===0 || num===1){
+    return `el factorial de ${num} es 1`;
+  }else{
+    for(let i: number=0;i<num;i++){
+      comodin=comodin*(i+1);
+    }
+    return `el factorial de ${num} es ${comodin}`;
   }
-  return `el factorial de ${num} es ${comodin}`;
 }
 
 console.log(factorial(numPrueba));

@@ -3,10 +3,15 @@
 let numPrueba = 5;
 function factorial(num) {
     let comodin = 1;
-    for (let i = 0; i < num; i++) {
-        comodin = comodin * (i + 1);
+    if (num === 0 || num === 1) {
+        return `el factorial de ${num} es 1`;
     }
-    return `el factorial de ${num} es ${comodin}`;
+    else {
+        for (let i = 0; i < num; i++) {
+            comodin = comodin * (i + 1);
+        }
+        return `el factorial de ${num} es ${comodin}`;
+    }
 }
 console.log(factorial(numPrueba));
 /*
