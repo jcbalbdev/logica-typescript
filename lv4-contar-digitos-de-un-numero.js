@@ -1,6 +1,6 @@
 "use strict";
 /* Dado un número, cuenta cuántos dígitos tiene (sin convertirlo a string). */
-let miNum = 12346;
+let miNum = 1000;
 function numeroDeDigitos(numero) {
     let cont = 1;
     let residuo;

@@ -1,5 +1,5 @@
 /* Dado un número, cuenta cuántos dígitos tiene (sin convertirlo a string). */
-let miNum: number = 12346
+let miNum: number = 1000
 
 function numeroDeDigitos(numero: number): string{
   let cont: number = 1;
