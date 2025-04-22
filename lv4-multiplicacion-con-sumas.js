@@ -1,6 +1,6 @@
 "use strict";
 /* Realiza una multiplicación de dos números sin usar *, solo sumas repetidas. */
-let nume = 10;
+let nume = -10;
 let otroNume = -5;
 function multiplicacionPositivo(a, b) {
     let operacion = 0;
@@ -19,9 +19,7 @@ function multiplicacion(a, b) {
     else if ((a < 0) && (b < 0)) {
         a = -a;
         b = -b;
-        respuesta = multiplicacionPositivo(a, b);
-        a = -a;
-        b = -b;
+        respuesta = multiplicacionPositivo(-a, -b);
     }
     else if ((a < 0) && (b > 0)) {
         a = -a;
