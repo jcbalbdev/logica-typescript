@@ -1,7 +1,7 @@
 /* Realiza una multiplicación de dos números sin usar *, solo sumas repetidas. */
 
-let nume: number = 2;
-let otroNume: number = 3;
+let nume: number = 8;
+let otroNume: number = 5;
 
 function multiplicación(a: number,b :number): string{
   let operacion: number = 0;

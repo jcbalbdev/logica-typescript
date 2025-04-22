@@ -1,7 +1,7 @@
 "use strict";
 /* Realiza una multiplicación de dos números sin usar *, solo sumas repetidas. */
-let nume = 2;
-let otroNume = 3;
+let nume = 8;
+let otroNume = 5;
 function multiplicación(a, b) {
     let operacion = 0;
     for (let i = 0; i < b; i++) {
