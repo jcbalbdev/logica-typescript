@@ -3,7 +3,7 @@
 let aleatorio;
 let sumaAleatorio = 0;
 while (sumaAleatorio < 100) {
-    aleatorio = Math.floor(Math.random() * 100 + 1);
+    aleatorio = Math.floor(Math.random() * 10 + 1);
     console.log(aleatorio);
     sumaAleatorio += aleatorio;
 }
