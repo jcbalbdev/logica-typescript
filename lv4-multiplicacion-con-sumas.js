@@ -17,8 +17,6 @@ function multiplicacion(a, b) {
         respuesta = multiplicacionPositivo(a, b);
     }
     else if ((a < 0) && (b < 0)) {
-        a = -a;
-        b = -b;
         respuesta = multiplicacionPositivo(-a, -b);
     }
     else if ((a < 0) && (b > 0)) {

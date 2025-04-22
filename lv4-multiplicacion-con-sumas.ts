@@ -22,8 +22,6 @@ function multiplicacion(a: number,b :number): string{
   if((a>0) && (b>0)){
     respuesta = multiplicacionPositivo(a,b);
   }else if((a<0) && (b<0)){
-    a=-a;
-    b=-b;
     respuesta = multiplicacionPositivo(-a,-b);
   }else if((a<0) && (b>0)){
     a=-a;
