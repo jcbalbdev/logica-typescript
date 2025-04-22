@@ -3,5 +3,5 @@
 let contraseña = "";
 do {
     contraseña = "pass";
-    console.log("contraseña correcta");
 } while (contraseña !== "pass");
+console.log("contraseña correcta");
