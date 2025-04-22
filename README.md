@@ -48,6 +48,9 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv2-usando-const.ts`](./lv2-usando-const.ts)
 - [`lv2-numero-positivo-negativo-o-cero.ts`](./lv2-numero-positivo-negativo-o-cero.ts)
 - [`lv2-suma-de-los-primeros-100-numeros.ts`](./lv2-suma-de-los-primeros-100-numeros.ts)
+- [`lv2-numeros-pares-del-1-al-50.ts`](./lv2-numeros-pares-del-1-al-50.ts)
+- [`lv2-tabla-de-multiplicar.ts`](./lv2-tabla-de-multiplicar.ts)
+- [`lv2-contador-regresivo.ts`](./lv2-contador-regresivo.ts)
 
 ### 🦄 Nivel 3
 - [`lv3-comparacion-estricta-vs-noestricta.ts`](./lv3-comparacion-estricta-vs-noestricta.ts)
