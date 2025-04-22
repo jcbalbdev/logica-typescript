@@ -1,6 +1,6 @@
 /* Calcula base^exponente sin usar Math.pow(), solo con bucles. */
 
-let numX: number = 1;
+let numX: number = -1;
 let exponente: number = 4;
 
 function potencia(numero: number,exponente: number): string{
