@@ -1,8 +1,8 @@
 /* Dado un número, cuenta cuántos dígitos tiene (sin convertirlo a string). */
-let miNum: number = 1234
+let miNum: number = 12346
 
 function numeroDeDigitos(numero: number): string{
-  let cont: number = 0;
+  let cont: number = 1;
   let residuo: number;
   let cociente: number;
 
@@ -16,7 +16,7 @@ function numeroDeDigitos(numero: number): string{
   return `el numero tiene ${cont} digitos`
 }
 
-console.log(numeroDeDigitos(1234))
+console.log(numeroDeDigitos(miNum))
 
 /* 
 n = 1234
