@@ -18,7 +18,7 @@ function potenciaGeneral(numero, exponente) {
         respuesta = potencia(numero, exponente);
     }
     else {
-        respuesta = 0;
+        respuesta = 1;
     }
     return `${numero} elevado a ${exponente} es ${respuesta}`;
 }
