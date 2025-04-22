@@ -3,17 +3,34 @@
 let nume: number = 8;
 let otroNume: number = 5;
 
-function multiplicación(a: number,b :number): string{
+function multiplicacionPositivo(a: number,b :number): number{
   let operacion: number = 0;
 
-  let max: number = Math.max(a,b);
-  let min: number = Math.min(a,b);
+  let mayor: number = Math.max(a,b);
+  let menor: number = Math.min(a,b);
 
-  for (let i: number = 0; i < min; i++) {
-    operacion+=max
+  for (let i: number = 0; i < menor; i++) {
+    operacion+=mayor
     
   }
-  return `la multiplicacion de ${a} y ${b} es : ${operacion}`;
+  return operacion;
 }
 
-console.log(multiplicación(nume,otroNume));
+
+function multiplicacion(a: number,b :number): string{
+  let respuesta: number ;
+  if((a>0) && (b>0)){
+    respuesta = multiplicacionPositivo(a,b);
+  }else if((a<0) || (b<0)){
+    respuesta = -multiplicacionPositivo(a,b);
+  }else{
+    respuesta = 0;
+  }
+
+  return `el producto de ${a} y ${b} es ${respuesta}`;
+}
+
+
+
+
+
