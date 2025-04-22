@@ -1,7 +1,7 @@
 "use strict";
 /* Calcula base^exponente sin usar Math.pow(), solo con bucles. */
 let numX = -2;
-let exponente = -2;
+let exponente = -3;
 function potencia(numero, exponente) {
     let operacion = 1;
     for (let i = 0; i < exponente; i++) {
