@@ -7,8 +7,8 @@ function factorial(num) {
         return `el factorial de ${num} es 1`;
     }
     else {
-        for (let i = 0; i < num; i++) {
-            comodin = comodin * (i + 1);
+        for (let i = 2; i < num; i++) {
+            comodin = comodin * i;
         }
         return `el factorial de ${num} es ${comodin}`;
     }

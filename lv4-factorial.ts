@@ -7,8 +7,8 @@ function factorial(num: number): string{
   if(num===0 || num===1){
     return `el factorial de ${num} es 1`;
   }else{
-    for(let i: number=0;i<num;i++){
-      comodin=comodin*(i+1);
+    for(let i: number=2;i<num;i++){
+      comodin=comodin*i;
     }
     return `el factorial de ${num} es ${comodin}`;
   }
