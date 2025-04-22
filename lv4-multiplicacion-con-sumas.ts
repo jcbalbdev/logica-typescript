@@ -1,6 +1,6 @@
 /* Realiza una multiplicación de dos números sin usar *, solo sumas repetidas. */
 
-let nume: number = 8;
+let nume: number = -8;
 let otroNume: number = 5;
 
 function multiplicacionPositivo(a: number,b :number): number{
