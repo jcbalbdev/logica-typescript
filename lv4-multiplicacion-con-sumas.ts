@@ -1,7 +1,7 @@
 /* Realiza una multiplicación de dos números sin usar *, solo sumas repetidas. */
 
 let nume: number = 8;
-let otroNume: number = 5;
+let otroNume: number = -5;
 
 function multiplicacionPositivo(a: number,b :number): number{
   let operacion: number = 0;
@@ -29,6 +29,8 @@ function multiplicacion(a: number,b :number): string{
 
   return `el producto de ${a} y ${b} es ${respuesta}`;
 }
+
+console.log(multiplicacion(nume,otroNume));
 
 
 
