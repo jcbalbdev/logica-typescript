@@ -36,7 +36,14 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
   Niveles de ejercicios
 </h2>
 
-### 🦄 Nivel 1
+### 🦄 Tema: Declaración de Datos y su Uso
+    Este tema es fundamental porque define cómo representas y manipulas la información. Incluye:
+
+    - Declaración de variables
+    - Tipado de datos
+    - Uso de constantes
+    - Operaciones básicas
+    - Conversión de tipos
 - [`lv1-suma-de-numeros.ts`](./lv1-suma-de-numeros.ts)
 - [`lv1-es-mayor-de-edad.ts`](./lv1-es-mayor-de-edad.ts)
 - [`lv1-cuenta-del-uno-al-diez.ts`](./lv1-cuenta-del-uno-al-diez.ts)
