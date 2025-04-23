@@ -28,7 +28,7 @@
   - [🧩 Ejercicios](#-ejercicios-1)
 - [ Tema: Repetición de Acciones (Bucles)](#-tema-repetición-de-acciones-bucles)
   - [🧩 Ejercicios](#-ejercicios-2)
-- [🏁 Créditos](#-créditos)
+- [ Créditos](#-créditos)
 
 ---
 
@@ -142,7 +142,7 @@ Este tema te enseña a repetir tareas de forma eficiente. Incluye:
 
 ---
 
-## 🏁 Créditos
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Créditos
 
 <p align="center">
   Hecho con 💜 por <a href="https://github.com/jcbalbdev" target="_blank">@jcbalbdev</a> <br/>
