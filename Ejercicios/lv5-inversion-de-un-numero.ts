@@ -1,0 +1,1 @@
+/* Dado un número como 1234, invierte sus cifras (4321) usando un bucle. */
