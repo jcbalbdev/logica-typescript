@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" alt="Logo de Github" width="100" />
   <br/>
-  <strong>Lógica con TypeScript</strong>
+  <strong>Aprende, Piensa y Domina la Lógica con TypeScript</strong>
   <br/>
-  <strong>61 Ejercicios repartidos en 10 Niveles</strong>
+  <strong>De Principiante a Pro</strong>
 </h1>
 
 <p align="center">
