@@ -3,7 +3,7 @@
   <br/>
   <strong>Lógica con TypeScript</strong>
   <br/>
-  <strong>61 Ejercicios repartidos por 10 Niveles</strong>
+  <strong>61 Ejercicios repartidos en 10 Niveles</strong>
 </h1>
 
 <p align="center">
@@ -18,25 +18,31 @@
 
 ---
 
-<h1>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxucmw5aWYwMG0yaWNwNDh6MTFlbDhmMHN0aHU0ZmpzcXRobzlmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Nyan Cat" width="40" style="vertical-align: middle; margin-right: 8px;" />
-  ¿Qué es esto?
-</h1>
+## 🗺️ Índice
 
+- [🗺️ Índice](#️-índice)
+- [ ¿Qué es esto?](#-qué-es-esto)
+- [ Tema: Declaración de Datos y su Uso](#-tema-declaración-de-datos-y-su-uso)
+  - [🧩 Ejercicios](#-ejercicios)
+- [ Tema: Toma de Decisiones](#-tema-toma-de-decisiones)
+  - [🧩 Ejercicios](#-ejercicios-1)
+- [ Tema: Repetición de Acciones (Bucles)](#-tema-repetición-de-acciones-bucles)
+  - [🧩 Ejercicios](#-ejercicios-2)
+- [🏁 Créditos](#-créditos)
+
+---
+
+## <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" style="vertical-align: middle;" /> ¿Qué es esto?
 
 Un recorrido paso a paso para que desarrolles y domines tu lógica de programación usando TypeScript. Aquí no solo aprendes, ¡también te diviertes!
 
 - 🎓 Perfecto para quienes están comenzando su aventura como desarrolladores
 - 🧙‍♂️ Avanza de nivel como si fueras un mago en entrenamiento: cada reto es una misión que te hará más fuerte
 
-
 ---
-<h2>
-  <img src="http://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="50" style="vertical-align: middle; margin-right: 8px;" />
-  Niveles de ejercicios
-</h2>
 
-### 🦄 Tema: Declaración de Datos y su Uso
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Declaración de Datos y su Uso
+
 Este tema es fundamental porque define cómo representas y manipulas la información. Incluye:
 
 - Declaración de variables
@@ -45,7 +51,8 @@ Este tema es fundamental porque define cómo representas y manipulas la informac
 - Operaciones básicas
 - Conversión de tipos
 
-#### Ejercicios para dominar Declaración de Datos y su Uso en TypeScript
+### 🧩 Ejercicios
+
 - [`lv1-suma-de-numeros.ts`](./lv1-suma-de-numeros.ts)
 - [`lv2-concatenacion-de-texto.ts`](./lv2-concatenacion-de-texto.ts)
 - [`lv2-usando-const.ts`](./lv2-usando-const.ts)
@@ -66,16 +73,20 @@ Este tema es fundamental porque define cómo representas y manipulas la informac
 - [`lv4-valores-falsy-y-truthy.ts`](./lv4-valores-falsy-y-truthy.ts)
 - [`lv5-agrupacion-de-datos-con-objetos.ts`](./lv5-agrupacion-de-datos-con-objetos.ts)
 
-### 🦄 Tema: Toma de Decisiones
-Este tema se centra en la evaluación de condiciones y ejecución de diferentes caminos dependiendo del contexto. Es fundamental para controlar el flujo del programa. Incluye:
+---
+
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Toma de Decisiones
+
+Este tema se centra en la evaluación de condiciones y ejecución de diferentes caminos dependiendo del contexto. Incluye:
 
 - Uso de if, else if, else
 - Operadores lógicos y de comparación
 - Estructuras switch
 - Expresiones ternarias
-- Validaciones anidadas y múltiples condiciones
+- Validaciones múltiples
 
-#### Ejercicios para dominar Toma de Decisiones en TypeScript
+### 🧩 Ejercicios
+
 - [`lv1-es-mayor-de-edad.ts`](./lv1-es-mayor-de-edad.ts)
 - [`lv2-numero-positivo-negativo-o-cero.ts`](./lv2-numero-positivo-negativo-o-cero.ts)
 - [`lv3-sistema-de-calificaciones.ts`](./lv3-sistema-de-calificaciones.ts)
@@ -102,17 +113,18 @@ Este tema se centra en la evaluación de condiciones y ejecución de diferentes 
 - [`lv8-reto-logico-con-condicionales.ts`](./lv8-reto-logico-con-condicionales.ts)
 - [`lv6-comparacion-de-fechas.ts`](./lv6-comparacion-de-fechas.ts)
 
-### 🦄 Tema: Repetición de Acciones (Bucles / Loops)
-Este tema se centra en repetir bloques de código bajo ciertas condiciones. Es clave para tareas repetitivas como procesar listas, generar cálculos o esperar eventos. Incluye:
+---
 
-- Bucles for, while, do...while
-- Control con break, continue
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Repetición de Acciones (Bucles)
+
+Este tema te enseña a repetir tareas de forma eficiente. Incluye:
+
+- Bucles for, while y do...while
 - Contadores y acumuladores
-- Bucles anidados
-- Uso de iteradores
 - Patrones con bucles
 
-#### Ejercicios para dominar Repetición de Acciones en TypeScript
+### 🧩 Ejercicios
+
 - [`lv1-cuenta-del-uno-al-diez.ts`](./lv1-cuenta-del-uno-al-diez.ts)
 - [`lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts`](./lv2-reorganización-de-variables-en-una-interfaz-para-representar-una-entidad.ts)
 - [`lv2-suma-de-los-primeros-100-numeros.ts`](./lv2-suma-de-los-primeros-100-numeros.ts)
@@ -130,5 +142,9 @@ Este tema se centra en repetir bloques de código bajo ciertas condiciones. Es c
 
 ---
 
-<p align="center"> Con 💜 por <a href="https://github.com/jcbalbdev">jcbalbdev</a> | ¡Sigue programando! </p>
+## 🏁 Créditos
 
+<p align="center">
+  Hecho con 💜 por <a href="https://github.com/jcbalbdev" target="_blank">@jcbalbdev</a> <br/>
+  ¡Que el código te acompañe! ⚔️
+</p>
