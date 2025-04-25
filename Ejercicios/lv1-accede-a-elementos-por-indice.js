@@ -8,4 +8,4 @@ var Cumpleaño;
     Cumpleaño[Cumpleaño["Barry"] = 23] = "Barry";
 })(Cumpleaño || (Cumpleaño = {}));
 let cumpleañosMarzo = [Cumpleaño.Bruce, Cumpleaño.Diana, Cumpleaño.Clark, Cumpleaño.Barry];
-console.log(`la cantidad de personas que cumples años en marzo son ${cumpleañosMarzo.length} , el primero en cumplir años es ${cumpleañosMarzo[0]} y el ultimo es ${cumpleañosMarzo[3]}`);
+console.log(`la cantidad de personas que cumples años en marzo son ${cumpleañosMarzo.length} , el primero cumple el ${cumpleañosMarzo[0]} de marzo y el ultimo el ${cumpleañosMarzo[3]}`);
