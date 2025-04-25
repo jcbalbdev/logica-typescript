@@ -8,4 +8,4 @@ var Fruta;
     Fruta["Pera"] = "pera";
 })(Fruta || (Fruta = {}));
 let frutas = [Fruta.Manzana, Fruta.Platano, Fruta.Pera, Fruta.Mandarina];
-console.log(`las frutas que necesitamos hoy son ${frutas[0]} ${frutas[1]} ${frutas[2]} ${frutas[3]}`);
+console.log(`las frutas que necesitamos hoy son ${frutas[0]} ,${frutas[1]} ,${frutas[2]} y ${frutas[3]}`);
