@@ -11,9 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/estado-en%20progreso-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/jcbalbdev/logica-typescript?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/jcbalbdev/logica-typescript?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-Latest-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010" alt="TypeScript Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Estado-En%20progreso-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Estado: En progreso" />
+  <img src="https://img.shields.io/github/last-commit/jcbalbdev/logica-typescript?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" alt="Último commit" />
 </p>
 
 ---
