@@ -29,6 +29,7 @@
   - [🧩 Ejercicios](#-ejercicios-1)
 - [ Tema: Repetición de Acciones (Bucles)](#-tema-repetición-de-acciones-bucles)
   - [🧩 Ejercicios](#-ejercicios-2)
+- [ Tema: Estructura de Datos y Manipulación](#-tema-estructura-de-datos-y-manipulación)
 - [ Créditos](#-créditos)
 
 ---
@@ -78,7 +79,7 @@ Este tema es fundamental porque define cómo representas y manipulas la informac
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Toma de Decisiones
 
-Este tema se centra en la evaluación de condiciones y ejecución de diferentes caminos dependiendo del contexto. Incluye:
+Este tema se centra en la evaluación de condiciones y ejecución de diferentes caminos dependiendo del contexto. Es fundamental para controlar el flujo del programa.. Incluye:
 
 - Uso de if, else if, else
 - Operadores lógicos y de comparación
@@ -118,10 +119,13 @@ Este tema se centra en la evaluación de condiciones y ejecución de diferentes 
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Repetición de Acciones (Bucles)
 
-Este tema te enseña a repetir tareas de forma eficiente. Incluye:
+Este tema se centra en repetir bloques de código bajo ciertas condiciones. Es clave para tareas repetitivas como procesar listas, generar cálculos o esperar eventos. Incluye:
 
 - Bucles for, while y do...while
+- Control con break, continue
 - Contadores y acumuladores
+- Bucles anidados
+- Uso de iteradores
 - Patrones con bucles
 
 ### 🧩 Ejercicios
@@ -140,6 +144,20 @@ Este tema te enseña a repetir tareas de forma eficiente. Incluye:
 - [`lv4-factorial.ts`](./Ejercicios/lv4-factorial.ts)
 - [`lv4-contar-digitos-de-un-numero.ts`](./Ejercicios/lv4-contar-digitos-de-un-numero.ts)
 - [`lv5-numero-primo.ts`](./Ejercicios/lv5-numero-primo.ts)
+
+---
+
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Estructura de Datos y Manipulación
+
+Aquí aprenderás a organizar y transformar datos. Este tema es clave para resolver problemas reales, ya que gran parte del trabajo como desarrollador implica estructurar, acceder, modificar y recorrer datos eficientemente.. Incluye:
+
+- Arrays (listas)
+- Objetos (diccionarios/tablas)
+- Tuplas
+- Sets y Maps
+- Métodos de transformación (map, filter, reduce, etc.)
+- Inserción, actualización, eliminación
+- Iteración y búsqueda
 
 ---
 
