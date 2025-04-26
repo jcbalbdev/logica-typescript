@@ -3,6 +3,7 @@
   <br/>
   <strong>Aprende, Piensa y Domina la Lógica con TypeScript</strong>
   <br/>
+  <img src="./Imagenes/typescript banner.png" alt="TypeScript desde cero banner" width="600" />
   <strong>65 Retos de Principiante a Pro</strong>
 </h1>
 
