@@ -9,7 +9,7 @@ function estaEnLaLista(lista, heroe) {
         return `el ${heroe} no esta en la lista`;
     }
 }
-console.log(estaEnLaLista(heroes, "Batman"));
+console.log(estaEnLaLista(heroes, "Flash"));
 function cualEsSuPosicion(lista, heroe) {
     let posicion = lista.indexOf(heroe);
     if (posicion === -1) {
@@ -19,4 +19,4 @@ function cualEsSuPosicion(lista, heroe) {
         return `el ${heroe} esta en la posicion ${lista.indexOf(heroe) + 1} de la lista`;
     }
 }
-console.log(estaEnLaLista(heroes, "Batman"));
+console.log(cualEsSuPosicion(heroes, "Flash"));

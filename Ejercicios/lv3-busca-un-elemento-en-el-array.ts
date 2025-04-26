@@ -10,7 +10,7 @@ function estaEnLaLista(lista: string[],heroe: string){
   }
 }
 
-console.log(estaEnLaLista(heroes,"Batman"));
+console.log(estaEnLaLista(heroes,"Flash"));
 
 function cualEsSuPosicion(lista: string[],heroe: string){
   let posicion: number = lista.indexOf(heroe);
@@ -21,4 +21,4 @@ function cualEsSuPosicion(lista: string[],heroe: string){
   }
 }
 
-console.log(estaEnLaLista(heroes,"Batman"));
+console.log(cualEsSuPosicion(heroes, "Flash"));
