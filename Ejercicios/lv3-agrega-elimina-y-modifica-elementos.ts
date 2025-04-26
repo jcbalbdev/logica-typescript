@@ -9,3 +9,11 @@ function agregaAlFinal(lista: string[],fruta: string): string{
 }
 
 console.log(agregaAlFinal(misFrutas,"mandarina"))
+
+function eliminaElFinal(lista: string[]){
+  lista.pop();
+
+  return `se elimino la ultima fruta de la lista. la nueva lista es ${lista}`
+}
+
+console.log(eliminaElFinal(misFrutas));

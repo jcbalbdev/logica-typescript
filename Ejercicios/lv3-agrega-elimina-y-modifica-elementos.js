@@ -6,3 +6,8 @@ function agregaAlFinal(lista, fruta) {
     return `se agrego ${fruta} al final de la lista. la nueva lista es ${lista}`;
 }
 console.log(agregaAlFinal(misFrutas, "mandarina"));
+function eliminaElFinal(lista) {
+    lista.pop();
+    return `se elimino la ultima fruta de la lista. la nueva lista es ${lista}`;
+}
+console.log(eliminaElFinal(misFrutas));
