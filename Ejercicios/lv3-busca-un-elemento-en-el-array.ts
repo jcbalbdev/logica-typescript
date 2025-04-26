@@ -2,7 +2,7 @@
 
 let heroes: string[] = ["Batman", "Superman", "Flash"];
 
-function estaEnLaLista(lista: string[],heroe: string){
+function estaEnLaLista(lista: string[],heroe: string): string{
   if(lista.includes(heroe)){
     return `el ${heroe} si esta en la lista`;
   }else{
@@ -12,7 +12,7 @@ function estaEnLaLista(lista: string[],heroe: string){
 
 console.log(estaEnLaLista(heroes,"Flash"));
 
-function cualEsSuPosicion(lista: string[],heroe: string){
+function cualEsSuPosicion(lista: string[],heroe: string): string{
   let posicion: number = lista.indexOf(heroe);
   if(posicion === -1){
     return `el ${heroe} no existe en la lista`;
