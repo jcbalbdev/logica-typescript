@@ -5,4 +5,8 @@ enum Nombre{
   Clark = "clark"
 }
 
+let alumnos: Nombre[] = [Nombre.Barry,Nombre.Bruce,Nombre.Clark];
 
+for(let i: number = 0;i<alumnos.length;i++){
+  console.log(alumnos[i]);
+}
