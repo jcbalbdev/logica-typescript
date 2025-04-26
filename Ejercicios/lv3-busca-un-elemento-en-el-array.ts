@@ -13,7 +13,7 @@ function estaEnLaLista(lista: string[],heroe: string){
 console.log(estaEnLaLista(heroes,"Batman"));
 
 function cualEsSuPosicion(lista: string[],heroe: string){
-  if(lista.indexOf(heroe) === 1){
+  if(lista.indexOf(heroe) === -1){
     return `el ${heroe} no existe en la lista`;
   }else{
     return `el ${heroe} esta en la posicion ${lista.indexOf(heroe) + 1} de la lista`;
