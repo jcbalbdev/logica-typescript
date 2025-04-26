@@ -3,7 +3,7 @@
   <br/>
   <strong>Aprende, Piensa y Domina la Lógica con TypeScript</strong>
   <br/>
-  <strong>58 Retos de Principiante a Pro</strong>
+  <strong>62 Retos de Principiante a Pro</strong>
 </h1>
 
 <p align="center">
