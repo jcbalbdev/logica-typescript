@@ -166,7 +166,8 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv1-accede-a-elementos-por-indice.ts`](./Ejercicios/lv1-accede-a-elementos-por-indice.ts)
 - [`lv2-recorre-un-array-con-for.ts`](./Ejercicios/lv2-recorre-un-array-con-for.ts)
 - [`lv3-agrega-elimina-y-modifica-elementos.ts`](./Ejercicios/lv3-agrega-elimina-y-modifica-elementos.ts)
-- - [`lv3-busca-un-elemento-en-el-array.ts`](./Ejercicios/lv3-busca-un-elemento-en-el-array.ts)
+- [`lv3-busca-un-elemento-en-el-array.ts`](./Ejercicios/lv3-busca-un-elemento-en-el-array.ts)
+- [`lv4-filtra-numeros-pares.ts`](./Ejercicios/lv4-filtra-numeros-pares.ts)
 
 ---
 
