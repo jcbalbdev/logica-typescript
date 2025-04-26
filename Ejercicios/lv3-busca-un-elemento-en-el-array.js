@@ -9,3 +9,4 @@ function estaEnLaLista(lista, heroe) {
         return `el ${heroe} no esta en la lista`;
     }
 }
+console.log(estaEnLaLista(heroes, "Batman"));
