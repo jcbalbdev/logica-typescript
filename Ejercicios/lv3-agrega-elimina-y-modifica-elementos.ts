@@ -17,3 +17,19 @@ function eliminaElFinal(lista: string[]){
 }
 
 console.log(eliminaElFinal(misFrutas));
+
+function agregaAlInicio(lista: string[],fruta: string): string{
+  lista.unshift(fruta);
+
+  return `se agrego ${fruta} al principio de la lista. la nueva lista es ${lista}`
+}
+
+console.log(agregaAlInicio(misFrutas,"mango"))
+
+function eliminaElInicio(lista: string[]){
+  lista.shift();
+
+  return `se elimino la primera fruta de la lista. la nueva lista es ${lista}`
+}
+
+console.log(eliminaElInicio(misFrutas));
