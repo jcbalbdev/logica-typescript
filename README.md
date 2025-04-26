@@ -1,14 +1,8 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" alt="Logo de Github" width="100" />
-  <br/>
-  <strong>Aprende, Piensa y Domina la Lógica con TypeScript</strong>
-  <br/>
-  <hr />
-  <img src="./Imagenes/typescript banner.png" alt="TypeScript desde cero banner" width="100%" />
-  <br/>
-  <hr />
-  <strong>65 Retos de Principiante a Pro</strong>
+  <strong>Aprende, Piensa y Domina la Lógica con TypeScript con 65 Retos de Principiante a Pro</strong>
 </h1>
+
+<img src="./Imagenes/typescript banner.png" alt="TypeScript desde cero banner" width="100%" />
 
 <p align="center">
   Aprende lógica de programación desde cero con ejercicios prácticos y progresivos usando <strong>TypeScript</strong> 💻🧠
@@ -22,6 +16,8 @@
 </p>
 
 ---
+
+<img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" alt="Logo de Github" width="100" />
 
 ## 🗺️ Índice
 
