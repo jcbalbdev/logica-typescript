@@ -8,6 +8,8 @@
   Aprende lógica de programación desde cero con ejercicios prácticos y progresivos usando <strong>TypeScript</strong> 💻🧠
 </p>
 
+> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-Latest-blue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010" alt="TypeScript Badge" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="JavaScript Badge" />
