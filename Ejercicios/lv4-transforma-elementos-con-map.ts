@@ -3,5 +3,7 @@
 let misImpares: number[] = [1,3,5,7,9];
 
 function porDos(lista: number[]): string{
+  
 
+  return `la lista de numero es ${lista} y la lista de numeros pares ue contiene esa lista es ${listaPares}`;
 }
