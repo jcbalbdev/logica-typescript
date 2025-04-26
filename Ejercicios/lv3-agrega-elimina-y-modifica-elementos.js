@@ -21,3 +21,8 @@ function eliminaElInicio(lista) {
     return `se elimino la primera fruta de la lista. la nueva lista es ${lista}`;
 }
 console.log(eliminaElInicio(misFrutas));
+function cambioDeFruta(lista, posicion, fruta) {
+    lista[posicion] = fruta;
+    return `se cambio la fruta de la posicion ${posicion} y se agrego la  fruta ${fruta}. la nueva lista es ${lista} `;
+}
+console.log(cambioDeFruta(misFrutas, 2, "coco"));
