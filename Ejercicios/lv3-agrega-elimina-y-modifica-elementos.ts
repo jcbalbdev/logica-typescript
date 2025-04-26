@@ -11,7 +11,7 @@ function agregaAlFinal(lista: string[],fruta: string): string{
 
 console.log(agregaAlFinal(misFrutas,"mandarina"))
 
-function eliminaElFinal(lista: string[]){
+function eliminaElFinal(lista: string[]): string{
   let listaOriginal: string[] = [...lista];
   lista.pop();
 
@@ -29,7 +29,7 @@ function agregaAlInicio(lista: string[],fruta: string): string{
 
 console.log(agregaAlInicio(misFrutas,"mango"))
 
-function eliminaElInicio(lista: string[]){
+function eliminaElInicio(lista: string[]): string{
   let listaOriginal: string[] = [...lista];
   lista.shift();
 
@@ -38,7 +38,7 @@ function eliminaElInicio(lista: string[]){
 
 console.log(eliminaElInicio(misFrutas));
 
-function cambioDeFruta(lista: string[],posicion: number,fruta: string){
+function cambioDeFruta(lista: string[],posicion: number,fruta: string): string{
   let listaOriginal: string[] = [...lista];
   lista[posicion] = fruta;
 
