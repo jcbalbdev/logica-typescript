@@ -165,6 +165,7 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv1-crea-una-lista-de-frutas.ts`](./Ejercicios/lv1-crea-una-lista-de-frutas.ts)
 - [`lv1-accede-a-elementos-por-indice.ts`](./Ejercicios/lv1-accede-a-elementos-por-indice.ts)
 - [`lv2-recorre-un-array-con-for.ts`](./Ejercicios/lv2-recorre-un-array-con-for.ts)
+- [`lv3-agrega-elimina-y-modifica-elementos.ts`](./Ejercicios/lv3-agrega-elimina-y-modifica-elementos.ts)
 ---
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Créditos
