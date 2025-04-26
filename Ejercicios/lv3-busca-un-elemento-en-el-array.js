@@ -11,7 +11,8 @@ function estaEnLaLista(lista, heroe) {
 }
 console.log(estaEnLaLista(heroes, "Batman"));
 function cualEsSuPosicion(lista, heroe) {
-    if (lista.indexOf(heroe) === -1) {
+    let posicion = lista.indexOf(heroe);
+    if (posicion === -1) {
         return `el ${heroe} no existe en la lista`;
     }
     else {
