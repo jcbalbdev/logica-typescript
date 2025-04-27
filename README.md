@@ -175,6 +175,7 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv4-transforma-elementos-con-map.ts`](./Ejercicios/lv4-transforma-elementos-con-map.ts)
 - [`lv5-suma-total-con-reduce.ts`](./Ejercicios/lv5-suma-total-con-reduce.ts)
 - [`lv5-eliminar-duplicados-con-set.ts`](./Ejercicios/lv5-eliminar-duplicados-con-set.ts)
+- [`lv6-ordenar-un-array-de-strings-por-longitud.ts`](./Ejercicios/lv6-ordenar-un-array-de-strings-por-longitud.ts)
 
 ---
 
