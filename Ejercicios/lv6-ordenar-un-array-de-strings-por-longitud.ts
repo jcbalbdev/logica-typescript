@@ -1,7 +1,13 @@
 /* Ordena un array de palabras por la cantidad de letras que contiene. */
 
-let codigos: number[] = [1,2,3,1,4,5,61,2,3];
+let palabras: string[] = ["barry","clark","bruce","diana","dexter"] ;
 
-codigos.sort((a,b)=>a-b);
+function ordenarPorTamaño(lista: string[]): string{
+  let listaOriginal: string[] = [...lista];
 
-console.log(codigos);
+  let nuevaLista: string[] = lista.sort((a,b) => a.length - b.length);
+
+  return `la lista de palabras es ${listaOriginal} y la lista ordenada por tamaño de palabra es ${nuevaLista}`;
+}
+
+console.log(ordenarPorTamaño(palabras));
