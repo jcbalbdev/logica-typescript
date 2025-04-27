@@ -7,3 +7,4 @@ function sumaConAcumulador(lista) {
     }, 0);
     return `la suma de esta lista (${lista}) es : ${sumaDeElementos} `;
 }
+console.log(sumaConAcumulador(listaNum));

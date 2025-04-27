@@ -8,3 +8,4 @@ function sumaConAcumulador(lista: number[]): string{
   return `la suma de esta lista (${lista}) es : ${sumaDeElementos} `; 
 }
 
+console.log(sumaConAcumulador(listaNum));
