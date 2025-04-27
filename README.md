@@ -171,6 +171,7 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv3-busca-un-elemento-en-el-array.ts`](./Ejercicios/lv3-busca-un-elemento-en-el-array.ts)
 - [`lv4-filtra-numeros-pares.ts`](./Ejercicios/lv4-filtra-numeros-pares.ts)
 - [`lv4-transforma-elementos-con-map.ts`](./Ejercicios/lv4-transforma-elementos-con-map.ts)
+- [`lv5-suma-total-con-reduce.ts`](./Ejercicios/lv5-suma-total-con-reduce.ts)
 
 ---
 
