@@ -1,6 +1,6 @@
 "use strict";
 /* Ordena un array de palabras por la cantidad de letras que contiene. */
-let palabras = ["barry", "clark", "bruce", "diana", "dexter"];
+let palabras = ["liga", "de", "la", "justicia", "ilimitada"];
 function ordenarPorTamaño(lista) {
     let listaOriginal = [...lista];
     let nuevaLista = lista.sort((a, b) => a.length - b.length);
