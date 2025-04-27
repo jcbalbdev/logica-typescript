@@ -33,6 +33,8 @@
   - [🧩 Ejercicios](#-ejercicios-2)
 - [ Tema: Estructura de Datos y Manipulación](#-tema-estructura-de-datos-y-manipulación)
   - [🧩 Ejercicios](#-ejercicios-3)
+- [ Tema: Abstracción y Reutilización de Código](#-tema-abstracción-y-reutilización-de-código)
+  - [🧩 Ejercicios](#-ejercicios-4)
 - [ Créditos](#-créditos)
 
 ---
@@ -152,7 +154,7 @@ Este tema se centra en repetir bloques de código bajo ciertas condiciones. Es c
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Estructura de Datos y Manipulación
 
-Aquí aprenderás a organizar y transformar datos. Este tema es clave para resolver problemas reales, ya que gran parte del trabajo como desarrollador implica estructurar, acceder, modificar y recorrer datos eficientemente.. Incluye:
+Aquí aprenderás a organizar y transformar datos. Este tema es clave para resolver problemas reales, ya que gran parte del trabajo como desarrollador implica estructurar, acceder, modificar y recorrer datos eficientemente.Incluye:
 
 - Arrays (listas)
 - Objetos (diccionarios/tablas)
@@ -174,6 +176,21 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv5-suma-total-con-reduce.ts`](./Ejercicios/lv5-suma-total-con-reduce.ts)
 - [`lv5-eliminar-duplicados-con-set.ts`](./Ejercicios/lv5-eliminar-duplicados-con-set.ts)
 
+---
+
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Abstracción y Reutilización de Código
+
+Este tema se enfoca en crear funciones reutilizables, evitar repeticiones y estructurar el código de forma modular. Aquí se aprende a pensar como un ingeniero de software: resolver una vez y reutilizar siempre. Incluye:
+
+- Declaración de funciones
+- Parámetros y retorno
+- Funciones puras vs impuras
+- Funciones anónimas y flecha (arrow functions)
+- Reutilización con funciones genéricas
+- Modularidad
+- Buenas prácticas (DRY: Don’t Repeat Yourself)
+
+### 🧩 Ejercicios
 ---
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Créditos
