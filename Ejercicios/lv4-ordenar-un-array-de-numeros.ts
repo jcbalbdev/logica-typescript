@@ -1,6 +1,6 @@
 /* Usa .sort() para ordenar de menor a mayor y viceversa. */
 
-let listaDeNumeros: number[] = [1,2,3,4,1,2,3,410]
+let listaDeNume: number[] = [1,2,3,4,1,2,3,410]
 
 function ordenarNumeros(lista: number[]): string{
   let listaOriginal: number[] = [...lista];
@@ -10,4 +10,4 @@ function ordenarNumeros(lista: number[]): string{
   return `la lista de palabras es ${listaOriginal} y la lista ordenada por tamaño de palabra es ${listaOrdenada}`;
 }
 
-console.log(ordenarNumeros(listaDeNumeros));
+console.log(ordenarNumeros(listaDeNume));
