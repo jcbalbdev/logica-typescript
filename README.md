@@ -193,6 +193,8 @@ Este tema se enfoca en crear funciones reutilizables, evitar repeticiones y estr
 - Buenas prácticas (DRY: Don’t Repeat Yourself)
 
 ### 🧩 Ejercicios
+
+- [`lv1-crea-tu-primera-funcion.ts`](./Ejercicios/lv1-crea-tu-primera-funcion.ts)
 ---
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Créditos
