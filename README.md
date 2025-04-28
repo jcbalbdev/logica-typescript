@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Aprende, Piensa y Domina la Lógica con TypeScript con 74 Retos de Principiante a Pro</strong>
+  <strong>Aprende, Piensa y Domina la Lógica con TypeScript con 75 Retos de Principiante a Pro</strong>
 </h1>
 
 <img src="./Imagenes/typescript banner.png" alt="TypeScript desde cero banner" width="100%" />
@@ -179,6 +179,7 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv4-ordenar-un-array-de-numeros.ts`](./Ejercicios/lv4-ordenar-un-array-de-numeros.ts)
 - [`lv2-objeto-con-propiedades-basicas.ts`](./Ejercicios/lv2-objeto-con-propiedades-basicas.ts)
 - [`lv3-acceder-y-modificar-propiedades.ts`](./Ejercicios/lv3-acceder-y-modificar-propiedades.ts)
+- [`lv4-recorre-objeto-con-for-in.ts`](./Ejercicios/lv4-recorre-objeto-con-for-in.ts)
 
 ---
 
