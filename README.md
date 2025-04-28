@@ -198,6 +198,7 @@ Este tema se enfoca en crear funciones reutilizables, evitar repeticiones y estr
 
 - [`lv1-crea-tu-primera-funcion.ts`](./Ejercicios/lv1-crea-tu-primera-funcion.ts)
 - [`lv2-funcion-con-parametros-y-retorno.ts`](./Ejercicios/lv2-funcion-con-parametros-y-retorno.ts)
+- [`lv2-funcion-que-verifica-si-un-numero-es-par.ts`](./Ejercicios/lv2-funcion-que-verifica-si-un-numero-es-par.ts)
 
 ---
 

@@ -4,4 +4,4 @@ function numEsPar(numero: number): boolean{
   return numero%2===0?true:false;
 }
 
-console.log(numEsPar(2));
+console.log(numEsPar(5));
