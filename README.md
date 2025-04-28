@@ -35,6 +35,8 @@
   - [🧩 Ejercicios](#-ejercicios-3)
 - [ Tema: Abstracción y Reutilización de Código](#-tema-abstracción-y-reutilización-de-código)
   - [🧩 Ejercicios](#-ejercicios-4)
+- [ Tema: Organización de Datos](#-tema-organización-de-datos)
+  - [🧩 Ejercicios](#-ejercicios-5)
 - [ Créditos](#-créditos)
 
 ---
@@ -200,6 +202,22 @@ Este tema se enfoca en crear funciones reutilizables, evitar repeticiones y estr
 - [`lv1-crea-tu-primera-funcion.ts`](./Ejercicios/lv1-crea-tu-primera-funcion.ts)
 - [`lv2-funcion-con-parametros-y-retorno.ts`](./Ejercicios/lv2-funcion-con-parametros-y-retorno.ts)
 - [`lv2-funcion-que-verifica-si-un-numero-es-par.ts`](./Ejercicios/lv2-funcion-que-verifica-si-un-numero-es-par.ts)
+
+---
+
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Tema: Organización de Datos
+
+Aquí aprenderás cómo estructurar, clasificar, agrupar y organizar datos de forma eficiente para resolver problemas reales. Esto hace que tus programas sean más potentes, claros y rápidos. Incluye:
+
+- Agrupación de datos
+- Clasificación
+- Indexación
+- Estructuras más complejas: arrays de arrays, arrays de objetos, objetos de objetos
+- Ordenamiento de datos
+- Acceso y manipulación optimizada
+
+### 🧩 Ejercicios
+- [`lv1-crea-tu-primera-funcion.ts`](./Ejercicios/lv1-crea-tu-primera-funcion.ts)
 
 ---
 
