@@ -4,10 +4,12 @@ type Musico = {
   nombre: string;
   edad: number;
   canciones: string[];
-}
+};
 
 let vocalista: Musico = {
   nombre : "Chester Bennington",
   edad : 41,
   canciones : ["In the End","Numb","Faint"]
-}
+};
+
+console.log(vocalista);

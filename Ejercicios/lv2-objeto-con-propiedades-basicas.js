@@ -5,3 +5,4 @@ let vocalista = {
     edad: 41,
     canciones: ["In the End", "Numb", "Faint"]
 };
+console.log(vocalista);
