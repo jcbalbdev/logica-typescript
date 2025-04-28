@@ -217,7 +217,7 @@ Aquí aprenderás cómo estructurar, clasificar, agrupar y organizar datos de fo
 - Acceso y manipulación optimizada
 
 ### 🧩 Ejercicios
-- [`lv1-crea-tu-primera-funcion.ts`](./Ejercicios/lv1-crea-tu-primera-funcion.ts)
+- [`lv2-array-de-objetos.ts`](./Ejercicios/lv2-array-de-objetos.ts)
 
 ---
 
