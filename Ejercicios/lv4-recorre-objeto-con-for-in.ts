@@ -8,3 +8,7 @@ let mesa: Mueble = {
   nombre: "mesa",
   material: "madera"
 }
+
+for(let propiedad in mesa){
+  console.log(`${propiedad} : ${mesa[propiedad as keyof typeof mesa]}`)
+}
