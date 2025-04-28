@@ -9,6 +9,9 @@ interface SuperHeroe {
 let flash: SuperHeroe = {
   nombre: "Barry Allen",
   "equipo de superherores" : "liga de la justicia",
-  poder:  "super velocidad"
+  poder:  "velocidad"
 }
 
+console.log(`el nombre del super heroe es ${flash.nombre} y pertenece a la ${flash["equipo de superherores"]}`);
+
+console.log(``)
