@@ -1,6 +1,6 @@
 /* Usa .sort() para ordenar de menor a mayor y viceversa. */
 
-let listaDeNume: number[] = [1,2,3,4,1,2,3,410]
+let listaDeNume: number[]= [1,2,3,4,1,2,3,410];
 
 function ordenarNumeros(lista: number[]): string{
   let listaOriginal: number[] = [...lista];
