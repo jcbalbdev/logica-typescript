@@ -1,2 +1,2 @@
 "use strict";
-/* Crea un objeto persona con nombre, edad y ciudad. Imprímelo. */
+/* Crea un objeto musico con nombre, edad y canciones. Imprímelo. */
