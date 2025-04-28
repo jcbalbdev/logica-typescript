@@ -3,3 +3,4 @@
 function saludar(): string{
   return `Hola mundo`;
 }
+console.log(saludar());
