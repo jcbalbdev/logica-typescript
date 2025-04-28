@@ -177,6 +177,8 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv5-eliminar-duplicados-con-set.ts`](./Ejercicios/lv5-eliminar-duplicados-con-set.ts)
 - [`lv6-ordenar-un-array-de-strings-por-longitud.ts`](./Ejercicios/lv6-ordenar-un-array-de-strings-por-longitud.ts)
 - [`lv4-ordenar-un-array-de-numeros.ts`](./Ejercicios/lv4-ordenar-un-array-de-numeros.ts)
+- [`lv2-objeto-con-propiedades-basicas.ts`](./Ejercicios/lv2-objeto-con-propiedades-basicas.ts)
+- [`lv3-acceder-y-modificar-propiedades.ts`](./Ejercicios/lv3-acceder-y-modificar-propiedades.ts)
 
 ---
 
