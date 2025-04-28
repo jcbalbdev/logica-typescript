@@ -1,2 +1,5 @@
 "use strict";
-/* Muestra todas las claves y valores del objeto persona. */
+let mesa = {
+    nombre: "mesa",
+    material: "madera"
+};
