@@ -2,7 +2,7 @@
 
 interface SuperHeroe {
   nombre:string;
-  "equipo de superherores":string;
+  "equipo de superherores"?:string;
   poder:string;
 }
 
