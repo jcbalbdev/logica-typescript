@@ -195,6 +195,8 @@ Este tema se enfoca en crear funciones reutilizables, evitar repeticiones y estr
 ### 🧩 Ejercicios
 
 - [`lv1-crea-tu-primera-funcion.ts`](./Ejercicios/lv1-crea-tu-primera-funcion.ts)
+- [`lv2-funcion-con-parametros-y-retorno.ts`](./Ejercicios/lv2-funcion-con-parametros-y-retorno.ts)
+
 ---
 
 ## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Créditos
