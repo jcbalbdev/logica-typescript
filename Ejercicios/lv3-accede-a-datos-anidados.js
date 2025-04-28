@@ -16,3 +16,4 @@ let miListaUsuarios = [
         edad: 32
     }
 ];
+console.log(`el email del segundo usuario de un array de objetos es ${miListaUsuarios[1]["email"]}`);
