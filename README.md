@@ -218,6 +218,7 @@ Aquí aprenderás cómo estructurar, clasificar, agrupar y organizar datos de fo
 
 ### 🧩 Ejercicios
 - [`lv2-array-de-objetos.ts`](./Ejercicios/lv2-array-de-objetos.ts)
+- [`lv3-accede-a-datos-anidados.ts`](./Ejercicios/lv3-accede-a-datos-anidados.ts)
 
 ---
 
