@@ -6,4 +6,5 @@ let flash = {
     poder: "velocidad"
 };
 console.log(`el nombre del super heroe es ${flash.nombre} y pertenece a la ${flash["equipo de superherores"]}`);
-console.log(``);
+flash.poder = "super velocidad";
+console.log(`su super poder es ${flash.poder}`);
