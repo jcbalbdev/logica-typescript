@@ -19,5 +19,5 @@ console.log(usandoObjectvalues);
 let DeObjetoaArray : [string ,string | number][] = Object.entries(pikachu);
 console.log(DeObjetoaArray);
 
-let DeArrayaObjeto = Object.fromEntries(DeObjetoaArray);
+let DeArrayaObjeto = Object.fromEntries(DeObjetoaArray) as unknown as Pokemon;
 console.log(DeArrayaObjeto);
