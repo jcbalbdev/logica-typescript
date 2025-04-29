@@ -16,3 +16,5 @@ console.log(usandoObjectkeys);
 let usandoObjectvalues: [string | number][] = Object.values(pikachu);
 console.log(usandoObjectvalues);
 
+let usandoObjectentries : [string ,string | number][] = Object.entries(pikachu);
+console.log(usandoObjectentries);
