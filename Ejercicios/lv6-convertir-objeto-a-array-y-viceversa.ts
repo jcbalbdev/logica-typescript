@@ -13,7 +13,7 @@ let pikachu: Pokemon = {
 let usandoObjectkeys: string[] = Object.keys(pikachu);
 console.log(usandoObjectkeys);
 
-let usandoObjectvalues: [string | number][] = Object.values(pikachu);
+let usandoObjectvalues: (string | number)[] = Object.values(pikachu);
 console.log(usandoObjectvalues);
 
 let DeObjetoaArray : [string ,string | number][] = Object.entries(pikachu);
