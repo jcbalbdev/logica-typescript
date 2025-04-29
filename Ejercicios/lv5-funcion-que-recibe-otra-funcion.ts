@@ -12,4 +12,4 @@ function ejecutar(a: number,b: number,operacion : (x: number,y: number) => numbe
   return operacion(a,b);
 }
 
-console.log(ejecutar(2,3,suma));
+console.log(ejecutar(2,3,resta));

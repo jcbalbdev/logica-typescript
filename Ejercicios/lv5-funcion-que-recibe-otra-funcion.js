@@ -9,4 +9,4 @@ function resta(a, b) {
 function ejecutar(a, b, operacion) {
     return operacion(a, b);
 }
-console.log(ejecutar(2, 3, suma));
+console.log(ejecutar(2, 3, resta));
