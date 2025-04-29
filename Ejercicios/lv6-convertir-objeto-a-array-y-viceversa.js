@@ -4,3 +4,5 @@ let pikachu = {
     nombre: "pikachu",
     tipo: "electrico"
 };
+let usandoObjectkeys = Object.keys(pikachu);
+console.log(usandoObjectkeys);

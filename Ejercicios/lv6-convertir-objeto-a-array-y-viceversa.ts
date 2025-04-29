@@ -10,4 +10,6 @@ let pikachu: Pokemon = {
   tipo:"electrico"
 }
 
+let usandoObjectkeys: string[] = Object.keys(pikachu);
+console.log(usandoObjectkeys);
 
