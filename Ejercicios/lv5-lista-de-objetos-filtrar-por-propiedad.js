@@ -14,4 +14,5 @@ let listaPersonas = [
         edad: 18
     }
 ];
-let mayores = listaPersonas.filter((personas) => personas.edad > 18);
+let mayores = listaPersonas.filter((personas) => personas.edad >= 18);
+console.log(mayores);
