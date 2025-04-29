@@ -7,3 +7,4 @@ let pikachu = {
 let usandoObjectkeys = Object.keys(pikachu);
 console.log(usandoObjectkeys);
 let usandoObjectvalues = Object.values(pikachu);
+console.log(usandoObjectvalues);
