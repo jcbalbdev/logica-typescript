@@ -20,6 +20,6 @@ let listaPersonas: DatosPersona[] = [
   }
 ]
 
-let mayores: DatosPersona[] = listaPersonas.filter((personas)=>personas.edad>=18);
+let mayores: DatosPersona[] = listaPersonas.filter((persona)=>persona.edad>=18);
 
 console.log(mayores);
