@@ -18,5 +18,5 @@ let listaDeProductos = [
         precio: 34
     }
 ];
-let mayorPrecio = listaDeProductos.find((producto) => producto.precio > 50);
+let mayorPrecio = listaDeProductos.find((producto) => Math.max(producto.precio));
 console.log(mayorPrecio.nombre);
