@@ -13,3 +13,5 @@ let pikachu: Pokemon = {
 let usandoObjectkeys: string[] = Object.keys(pikachu);
 console.log(usandoObjectkeys);
 
+let usandoObjectvalues: any[] = Object.values();
+
