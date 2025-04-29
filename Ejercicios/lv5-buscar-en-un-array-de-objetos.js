@@ -18,4 +18,5 @@ let listaDeProductos = [
         precio: 34
     }
 ];
-console.log(...listaDeProductos);
+let mayorPrecio = listaDeProductos.find((producto) => Math.max(producto.precio));
+console.log(mayorPrecio.nombre);
