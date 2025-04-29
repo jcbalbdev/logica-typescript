@@ -19,4 +19,4 @@ let listaDeProductos = [
     }
 ];
 let mayorPrecio = listaDeProductos.find((producto) => producto.precio > 50);
-console.log(mayorPrecio);
+console.log(mayorPrecio.nombre);
