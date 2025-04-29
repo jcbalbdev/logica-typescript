@@ -16,5 +16,8 @@ console.log(usandoObjectkeys);
 let usandoObjectvalues: [string | number][] = Object.values(pikachu);
 console.log(usandoObjectvalues);
 
-let usandoObjectentries : [string ,string | number][] = Object.entries(pikachu);
-console.log(usandoObjectentries);
+let DeObjetoaArray : [string ,string | number][] = Object.entries(pikachu);
+console.log(DeObjetoaArray);
+
+let DeArrayaObjeto = Object.fromEntries(DeObjetoaArray);
+console.log(DeArrayaObjeto);
