@@ -3,10 +3,10 @@
 const PI: number = 3.141592;
 let radio: number = 4;
 
-function areaCirculo(radio: number,pi: number): string{
+function areaDeCirculo(radio: number,pi: number): string{
   let area: number = pi*Math.pow(radio,2);
 
   return `el area del circulo de radio ${radio} es : ${area}`;
 }
 
-console.log(areaCirculo(radio,PI));
+console.log(areaDeCirculo(radio,PI));
