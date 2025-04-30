@@ -15,7 +15,7 @@ let listaDeProductos = [
     },
     {
         nombre: "teclado gamer",
-        precio: 34
+        precio: 340
     }
 ];
 let precioMax = Math.max(...listaDeProductos.map((producto) => producto.precio));

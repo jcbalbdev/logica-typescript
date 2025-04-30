@@ -20,7 +20,7 @@ let listaDeProductos: Item[] = [
   },
   {
     nombre:"teclado gamer",
-    precio:34
+    precio:340
   }
 ]
 
