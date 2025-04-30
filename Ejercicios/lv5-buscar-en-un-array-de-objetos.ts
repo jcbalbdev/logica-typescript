@@ -1,4 +1,4 @@
-/* Usa find para encontrar el producto con mayor precio en una lista. */
+/* Usa find para encontrar el producto con mayor precio en una lista.*/
 
 interface Item{
   nombre:string;
@@ -24,7 +24,7 @@ let listaDeProductos: Item[] = [
   }
 ]
 
-
+let precioMax
 
 let mayorPrecio = listaDeProductos.find((producto)=>Math.max(producto.precio)) as Item;
 

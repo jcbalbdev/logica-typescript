@@ -1,5 +1,5 @@
 "use strict";
-/* Usa find para encontrar el producto con mayor precio en una lista. */
+/* Usa find para encontrar el producto con mayor precio en una lista.*/
 let listaDeProductos = [
     {
         nombre: "mesa gamer",
@@ -18,5 +18,6 @@ let listaDeProductos = [
         precio: 34
     }
 ];
+let precioMax;
 let mayorPrecio = listaDeProductos.find((producto) => Math.max(producto.precio));
 console.log(mayorPrecio.nombre);
