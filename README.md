@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Aprende, Piensa y Domina la Lógica con TypeScript con 81 Retos de Principiante a Pro</strong>
+  <strong>Aprende, Piensa y Domina la Lógica con TypeScript con 83 Retos de Principiante a Pro</strong>
 </h1>
 
 <img src="./Imagenes/typescript banner.png" alt="TypeScript desde cero banner" width="100%" />
