@@ -184,6 +184,7 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv4-recorre-objeto-con-for-in.ts`](./Ejercicios/lv4-recorre-objeto-con-for-in.ts)
 - [`lv6-convertir-objeto-a-array-y-viceversa.ts`](./Ejercicios/lv6-convertir-objeto-a-array-y-viceversa.ts)
 - [`lv5-lista-de-objetos-filtrar-por-propiedad.ts`](./Ejercicios/lv5-lista-de-objetos-filtrar-por-propiedad.ts)
+- [`lv5-buscar-en-un-array-de-objetos.ts`](./Ejercicios/lv5-buscar-en-un-array-de-objetos.ts)
 
 ---
 
