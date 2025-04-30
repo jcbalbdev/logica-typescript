@@ -4,6 +4,6 @@ function doble(a) {
     return 2 * a;
 }
 function imprimiendoDoble(a) {
-    return `el doble de ${a}  es ${doble(a)}`;
+    console.log(`el doble de ${a}  es ${doble(a)}`);
 }
 console.log(imprimiendoDoble(3));

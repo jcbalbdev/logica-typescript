@@ -4,8 +4,8 @@ function doble(a: number): number{
   return 2*a;
 }
 
-function imprimiendoDoble(a: number): string{
-  return `el doble de ${a}  es ${doble(a)}`;
+function imprimiendoDoble(a: number): void{
+  console.log(`el doble de ${a}  es ${doble(a)}`) ;
 }
 
 console.log(imprimiendoDoble(3));
