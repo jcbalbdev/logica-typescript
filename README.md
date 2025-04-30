@@ -182,6 +182,8 @@ Aquí aprenderás a organizar y transformar datos. Este tema es clave para resol
 - [`lv2-objeto-con-propiedades-basicas.ts`](./Ejercicios/lv2-objeto-con-propiedades-basicas.ts)
 - [`lv3-acceder-y-modificar-propiedades.ts`](./Ejercicios/lv3-acceder-y-modificar-propiedades.ts)
 - [`lv4-recorre-objeto-con-for-in.ts`](./Ejercicios/lv4-recorre-objeto-con-for-in.ts)
+- [`lv6-convertir-objeto-a-array-y-viceversa.ts`](./Ejercicios/lv6-convertir-objeto-a-array-y-viceversa.ts)
+- [`lv5-lista-de-objetos-filtrar-por-propiedad.ts`](./Ejercicios/lv5-lista-de-objetos-filtrar-por-propiedad.ts)
 
 ---
 
