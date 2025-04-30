@@ -4,6 +4,7 @@ function doble(a) {
     return 2 * a;
 }
 function imprimiendoDoble(a) {
-    console.log(`el doble de ${a}  es ${doble(a)}`);
+    console.log("Calculando..."); //efecto colateral
+    return doble(a);
 }
 console.log(imprimiendoDoble(3));
