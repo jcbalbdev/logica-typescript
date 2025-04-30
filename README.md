@@ -207,6 +207,7 @@ Este tema se enfoca en crear funciones reutilizables, evitar repeticiones y estr
 - [`lv2-funcion-que-verifica-si-un-numero-es-par.ts`](./Ejercicios/lv2-funcion-que-verifica-si-un-numero-es-par.ts)
 - [`lv3-reutilizacion-de-calculos-matematicos.ts`](./Ejercicios/lv3-reutilizacion-de-calculos-matematicos.ts)
 - [`lv4-funciones-puras-vs-funciones-con-efecto.ts`](./Ejercicios/lv4-funciones-puras-vs-funciones-con-efecto.ts)
+- [`lv5-funcion-que-recibe-otra-funcion.ts`](./Ejercicios/lv5-funcion-que-recibe-otra-funcion.ts)
 
 ---
 
