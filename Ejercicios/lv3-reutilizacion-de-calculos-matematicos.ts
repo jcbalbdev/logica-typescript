@@ -8,11 +8,11 @@ function areaRectangulo(a: number,b: number): number{
   return productoDe(a,b);
 }
 
-function areaTriangulo(a: number,b: number){
+function areaTriangulo(a: number,b: number): number{
   return productoDe(a,b)/2;
 }
 
-function areaCuadrado(a: number,b: number){
+function areaCuadrado(a: number,b: number): number{
   return productoDe(a,b);
 }
 
